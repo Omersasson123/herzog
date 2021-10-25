@@ -7,7 +7,9 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import numpy as np
+import cchardet
+import os
 '''
 Script to collect all relevant cybersecurity links
 '''
@@ -17,7 +19,7 @@ Script to collect all relevant cybersecurity links
 options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 #options.add_argument('--incognito') #if we want to run selenium in incognito
-#options.add_argument('--headless') #if we want to run selenium without displaying browser
+options.add_argument('--headless') #if we want to run selenium without displaying browser
 driver = webdriver.Chrome("/usr/local/bin/chromedriver", chrome_options=options)
 
 #use driver to get webpage 
@@ -74,9 +76,9 @@ cyber_security = WebDriverWait(driver, 20).until(EC.presence_of_element_located(
 cyber_security.click()
 
 #scroll down to bottom of page and click load more button
-time.sleep(5)
+time.sleep(3)
 driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-time.sleep(5)
+time.sleep(3)
 #click load more button
 button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@id='companies_advanced_search_page']/div[4]/div")))
 button.click()
@@ -96,6 +98,88 @@ while True:
 page_source = driver.page_source
 #add all correct links to set of startups
 addToCompanyList(page_source)
-print(list_of_startups)
+print(len(list_of_startups))
 driver.close()
+
+#Sonya's Code
+def clean_data(df):
+    # removes the \n characters 
+    df = df.replace(r'\n',' ', regex=True) 
+    return df
+    
+def add_tags(soup):
+    #returns an array of tags from the soup
+    arr_of_tags = []
+    tag_wrap = soup.findAll('div', class_ = 'tags-wrapper')[0]
+    for i in tag_wrap.find_all('div', {"class":'label hoverable js-hoverable-tag'}):
+        tag = i.find('a', {"data-report-action": "TAGS"}).find(text=True)
+        arr_of_tags = np.append(arr_of_tags, tag)
+    return arr_of_tags   
+
+df = pd.DataFrame()
+def add_rows(url, df):
+    #request page and initilze BS object
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text, 'lxml')
+    #find box
+    result = soup.find('div', {"class": "zyno-card-4"})
+    column = []
+    value = []
+    
+    # add name of company 
+    column.append('Company Name')
+    title = soup.find('div', {"class": "breadcrumb-item breadcrumb-item-bolded"}).find(text=True)
+    value.append(title)
+    
+    #extract info (column and values)
+    for metadata_item in result.findAll('div', {"class": 'metadata-item'}):
+            value_for_col = metadata_item.find('div', {"class":'metadata-description'})
+            col_name = metadata_item.find('div', {'class': 'item-bottom'})
+            if col_name and value_for_col:
+                column.append(col_name.find(text=True))
+                value.append(value_for_col.findAll(text=True)[0]) #for some reason takes it as a list
+    
+    funding = soup.findAll('div', {"class": 'funding-metadata'})
+    if funding != None and len(funding) > 0:
+        funding = funding[0]
+        for i in range(4):
+                value_for_col = funding.findAll("div", {"class": "title"})[i]
+                col_name = funding.findAll("div", {"class": "subtitle"})[i]
+                if col_name and value_for_col:
+                    column.append(col_name.find(text=True))
+                    value.append(value_for_col.findAll(text=True)[0]) #for some reason takes it as a list    
+    present_fund = soup.find('div', {"class": 'funding-round-events-wrapper'})
+    if present_fund != None:
+        name_of_round = present_fund.find('div', {"class": 'text medium bold'}) #.find(text=True)
+        amount = present_fund.find('div', {"class": 'text bold big text-align-end'}) #.find(text=True)
+        if name_of_round:
+            column.append('Current Round')
+            value.append(name_of_round.find(text = True))
+        if amount:
+            column.append('Funding in Current Round')
+            value.append(amount.find(text = True))
+    #add tags to the values 
+    arr_of_tags = add_tags(soup)
+    column.append('TAGS')
+    value.append(arr_of_tags)
+    
+    #create new_df with new row and add that to existing dataframe
+    row_df = pd.DataFrame([value], columns = column)
+  
+    df = pd.concat([df, row_df], ignore_index=True)
+    
+    #df = df.drop_duplicates() #ensure we don't add duplicates, should add company name to avoid drops of same values 
+    
+    #clean data 
+    df = clean_data(df)
+    return df
+ 
+
+cyber_security_startup_table = pd.DataFrame()
+for company in list_of_startups:
+    df = add_rows(company, df)
+
+path = os.getcwd()
+df.to_csv(path + '/export_startup_companies.csv', index = False)
+
 

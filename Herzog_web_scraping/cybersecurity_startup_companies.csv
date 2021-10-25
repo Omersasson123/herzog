@@ -1,0 +1,1458 @@
+Company Name,FOUNDED,BUSINESS MODEL,EMPLOYEES,FUNDING STAGE,RAISED,PRODUCT STAGE,Funding stage,Total raised,Total rounds,Investors,Current Round,Funding in Current Round,TAGS
+CyberArk,                              4/1999,"B2B, B2G",500+,Public,                 $43M,Released,Public,43M,2,3,Private Equity,$40M,"['dlp' 'threat-intelligence' 'iam' 'gdpr' 'data-protection'
+ 'behavior-analytics' 'monitoring' 'siem' 'cyber-security' 'compliance'
+ 'privileged-access-management' 'ransomware' 'network-security'
+ 'file-security' 'enterprise-security' 'access-control'
+ 'endpoint-security' 'cloud-security' 'apt' 'insider-threat'
+ 'risk-management']"
+Nitromia,                              3/2018,B2B,1-10,Bootstrapped,,Customer development,,,,,,,"['data-protection' 'encryption' 'transactions' 'crypto' 'blockchain'
+ 'cyber-security' 'fintech' 'web-platform' 'privacy-protection'
+ 'cryptography']"
+Matchbox Streaming,                              1/2013,B2C,1-10,Revenue Financed,,Released,,,,,,,"['privacy-protection' 'cyber-security' 'streaming' 'routers' 'vpn'
+ 'telecommunication-equipment' 'data-protection' 'encryption']"
+GlobeKeeper,                              8/2014,"B2B, B2C, B2G",11-50,Seed,                 $2.45M,Released,Seed,2.45M,5,4,Undisclosed Round,,"['mobile-applications' 'cyber-security' 'collaboration' 'data-protection'
+ 'vpn' 'public-safety' 'p2p' 'telecommunication' 'iot' 'mobile-security'
+ 'command-and-control' 'emergency-medical-services' 'encryption'
+ 'communication-protocols' 'location-based' 'coronavirus']"
+Votiro Cybersec,                              1/2010,"B2B, B2G",11-50,ROUND A,                 $14M,Released,A,14M,4,3,A Round,$8M,"['spear-phishing' 'enterprise-security' 'cyber-security'
+ 'security-gateway' 'big-data-analytics' 'saas' 'file-security'
+ 'threat-intelligence' 'cdr' 'telecommunication' 'hardware' 'zero-day'
+ 'network-security' 'apt']"
+Argon Security,                              10/2020,B2B,11-50,Seed,                 $4M,Released,Seed,4M,1,6,Seed,$4M,"['enterprise-solutions' 'ci-cd' 'data-protection' 'risk-assesments'
+ 'cyber-security' 'devops' 'supply-chain']"
+Comsec,             1987,"B2B, B2G",201-500,Public,,Released,,,,,,,"['risk-management' 'anti-fraud' 'data-protection' 'cyber-security' 'ddos'
+ 'software-applications' 'enterprise-security' 'security' 'compliance'
+ 'it-security']"
+Crusoe Security,                              3/2016,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['enterprise-security' 'safe-browsing' 'compliance' 'network-security'
+ 'website-security' 'isolation' 'endpoint-security' 'cyber-security'
+ 'virtualization' 'malware']"
+Varonis Systems,                              1/2005,B2B,500+,Public,                 $28.79M,Released,Public,28.79M,5,4,Undisclosed Round,$1M,"['insider-threat' 'gdpr' 'data-migration' 'data-protection'
+ 'orchestration' 'ransomware' 'big-data-analytics' 'grc' 'compliance'
+ 'threat-detection' 'dlp' 'exfiltration-prevention' 'uba' 'cyber-security'
+ 'enterprise-security' 'file-security' 'behavior-analytics'
+ 'data-governance']"
+ARMO,                              1/2018,B2B,11-50,Seed,                 $4.5M,Released,Seed,4.5M,1,1,Seed,$4.5M,"['enterprise-solutions' 'authentication' 'security' 'kubernetes'
+ 'hybrid-cloud' 'enterprise-security' 'application-security'
+ 'data-protection' 'encryption' 'cyber-security' 'cloud-security']"
+Komodo Consulting,                              1/2011,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['apt' 'threat-intelligence' 'ddos' 'deep-web' 'penetration-tests'
+ 'risk-assesments' 'mobile-security' 'big-data-analytics'
+ 'application-security' 'incident-response' 'cyber-intelligence'
+ 'vulnerability-management' 'dlp' 'network-security' 'cyber-security']"
+BigID,                              1/2016,B2B,201-500,ROUND C+,                 $246.1M,Released,C+,246.1M,7,13,D Round,$30M,"['risk-management' 'enterprise-security' 'cyber-security'
+ 'data-governance' 'patent-pending' 'unicorn' 'compliance' 'dlp'
+ 'data-protection' 'enterprise-solutions' 'identity-verification'
+ 'privacy-protection' 'gdpr']"
+enSilo,                              8/2014,B2B,51-200,ROUND B,                 $57M,Released,B,57M,5,6,B Round,$23M,"['data-protection' 'orchestration' 'exfiltration-prevention' 'ransomware'
+ 'edr' 'endpoint-security' 'enterprise-security' 'forensics'
+ 'network-security' 'malware' 'cyber-security']"
+CyberNite,                              1/2020,B2B,1-10,Bootstrapped,,Beta,,,,,,,['cyber-security']
+Cympire,                              1/2018,"B2B, B2G",11-50,Seed,,Released,,,,,,,"['network-security' 'quarantine' 'training' 'education' 'simulation'
+ 'virtualization' 'security-operations' 'enterprise-solutions'
+ 'cyber-security' 'enterprise-security' 'cloud-gaming' 'smart-city'
+ 'gamification']"
+InnoSec,                              1/2007,"B2B, B2G",1-10,Revenue Financed,                 $570K,Released,Revenue Financed,570K,1,0,Grant,$570K,"['vulnerability-management' 'insurtech' 'gdpr' 'business-dashboard'
+ 'cyber-insurance' 'enterprise-solutions' 'enterprise-security'
+ 'compliance' 'dlp' 'counselling-and-integration' 'risk-assesments'
+ 'fintech' 'consulting' 'grc' 'cyber-security' 'risk-management']"
+SNDBOX,                              5/2017,B2B,1-10,Bootstrapped,,Released,,,,,,,"['cyber-security' 'deep-learning' 'threat-intelligence' 'isolation'
+ 'research-platform' 'security-operations' 'network-security'
+ 'artificial-intelligence' 'reverse-engineering' 'enterprise-security'
+ 'forensics' 'big-data-analytics' 'malware']"
+Kameleon Security,                              1/2019,B2B,11-50,Seed,,R&D,Seed,0,1,1,Seed,,"['vulnerability-management' 'hardware' 'semiconductors' 'cyber-security'
+ 'application-security']"
+Hysolate,                              5/2016,B2B,51-200,ROUND B,                 $36M,Released,B,36M,3,5,Undisclosed Round,$10M,"['privileged-access-management' 'endpoint-security' 'network-security'
+ 'isolation' 'virtualization' 'operating-systems' 'it-management'
+ 'cyber-security' 'enterprise-security' 'enterprise-solutions'
+ 'quarantine' 'payments' 'devops']"
+Aurora Labs,                              12/2016,B2B,11-50,ROUND B,                 $34.5M,Customer development,B,34.5M,3,10,B Round,$23M,"['car-tech' 'machine-learning' 'cyber-security' 'autonomous-vehicles'
+ 'ota' 'connected-vehicles' 'smart-mobility' 'anomaly-detection' 'saas'
+ 'oem' 'artificial-intelligence']"
+Nyotron,                              7/2006,"B2B, B2G",51-200,ROUND A,                 $43M,Released,A,43M,4,7,Undisclosed Round,$10M,"['endpoint-security' 'orchestration' 'behavior-analytics' 'zero-day'
+ 'cyber-security' 'malware' 'threat-intelligence' 'file-security'
+ 'ransomware' 'apt']"
+High Sec Labs,                              7/2008,"B2B, B2G",51-200,Revenue Financed,,Released,,,,,,,"['network-security' 'dlp' 'scada' 'telecommunication-equipment'
+ 'isolation' 'perimeter-security' 'voip' 'switches' 'telecommunication'
+ 'authentication' 'cyber-security']"
+AI-PREDATOR,                              1/2019,"B2B, B2G",1-10,Seed,,R&D,,,,,,,"['anomaly-detection' 'anti-fraud' 'network-security' 'risk-management'
+ 'cyber-security' 'behavior-analytics']"
+Enc.AI,                              1/2018,B2B,1-10,Bootstrapped,,R&D,,,,,,,['encryption' 'data-protection' 'cyber-security' 'artificial-intelligence']
+L1ght,                              12/2018,B2B,11-50,Seed,                 $15M,R&D,Seed,15M,1,3,Seed,$15M,"['kids-safety' 'safe-browsing' 'personal-safety' 'cyber-security'
+ 'artificial-intelligence' 'safety' 'machine-learning'
+ 'behavior-analytics']"
+Wise-Mon,                              1/2009,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['cyber-security' 'network-security' 'monitoring' 'byod' 'saas'
+ 'compliance' 'access-control']"
+At-Bay,                              7/2016,B2B,11-50,ROUND C+,                 $292M,Released,C+,292M,6,11,D Round,$20M,"['unicorn' 'anti-fraud' 'cyber-insurance' 'risk-management'
+ 'cyber-security' 'underwriting' 'grc' 'network-security' 'insurtech'
+ 'fintech']"
+Cyber 2.0,                              8/2015,B2B,11-50,ROUND A,                 $8.2M,Released,A,8.2M,2,1,A Round,$5M,"['iot' 'ot' 'connected-vehicles' 'vulnerability-management'
+ 'cyber-security' 'soc' 'security-gateway' 'quarantine' 'authentication'
+ 'enterprise-security' 'data-protection' 'malware' 'smart-mobility'
+ 'industry-4.0' 'ot-cyber' 'enterprise-solutions']"
+Iris Shield,                              4/2019,"B2B, B2G",1-10,Seed,,Beta,,,,,,,"['alert-system' 'enterprise-solutions' 'data-visualization'
+ 'insider-threat' 'threat-intelligence' 'mobile-security' 'cyber-security'
+ 'network-security' 'mobile-devices' 'vulnerability-management'
+ 'data-protection' 'data-analytics' 'vulnerability-assessment'
+ 'enterprise-security' 'security' 'iot' 'wifi' 'cloud-security'
+ 'orchestration']"
+Syber.ai,                              3/2018,B2B,1-10,Bootstrapped,,Released,,,,,,,"['enterprise-security' 'cyber-security' 'dlp' 'dpi' 'api'
+ 'application-security']"
+Findings,                              1/2018,B2B,11-50,Seed,,Released,Seed,0,1,1,Seed,,"['management-solutions' 'grc' 'risk-management' 'saas' 'compliance'
+ 'chatbot' 'remote-vendor-security' 'risk-assesments' 'cyber-security'
+ 'supply-chain' 'software-applications' 'artificial-intelligence']"
+Kape Technologies,                              10/2010,"B2B, B2C",201-500,Public,,Released,,,,,,,"['privacy-protection' 'ransomware' 'data-protection' 'safe-browsing' 'vpn'
+ 'backup' 'website-security' 'endpoint-security' 'encryption'
+ 'cyber-security']"
+Cyber Observer,                              9/2011,"B2B, B2G",11-50,ROUND B,                 $12M,Released,B,12M,3,3,B Round,$8M,"['cyber-security' 'enterprise-security' 'data-visualization'
+ 'behavior-analytics' 'alert-system' 'vulnerability-assessment'
+ 'orchestration' 'soc' 'vulnerability-management' 'network-security']"
+Cyber Innovative Technologies,                              10/2018,"B2B, B2G",1-10,Seed,                 $65K,Released,Seed,65K,1,1,Convertible Debt,$65K,"['software-applications' 'risk-management' 'artificial-intelligence'
+ 'gdpr' 'saas' 'web-platform' 'machine-learning' 'compliance'
+ 'cyber-security']"
+Hunters,                              11/2018,B2B,51-200,ROUND B,                 $50.4M,Released,B,50.4M,3,6,B Round,$30M,"['threat-detection' 'cyber-security' 'behavior-analytics'
+ 'enterprise-security' 'security-operations' 'saas' 'threat-hunting'
+ 'automation' 'soc' 'artificial-intelligence' 'network-security'
+ 'enterprise-solutions' 'machine-learning']"
+Cyberbit,                              4/2015,"B2B, B2G",201-500,Seed,                 $52M,Released,Seed,52M,2,2,Undisclosed Round,$22M,"['incident-response' 'network-security' 'automation' 'ids'
+ 'threat-intelligence' 'homeland-security' 'soc' 'ot' 'scada' 'iot'
+ 'cyber-intelligence' 'orchestration' 'cyber-security' 'edr' 'training'
+ 'endpoint-security' 'security-operations']"
+Wiz,                              1/2020,B2B,51-200,ROUND C+,                 $621M,R&D,C+,621M,5,12,D Round,$250M,"['containers' 'risk-management' 'cloud-infrastructure' 'unicorn'
+ 'cyber-security' 'enterprise-solutions' 'network-visibility'
+ 'cloud-security' 'enterprise-security']"
+infiniDome,                              6/2016,"B2B, B2G",11-50,ROUND A,                 $4M,Released,A,4M,2,5,A Round,$2.4M,"['supply-chain' 'critical-infastructure' 'rf-technology' 'navigation'
+ 'autonomous-vehicles' 'telecommunication-equipment' 'fleet-management'
+ 'hardware' 'gps' 'smart-mobility' 'drones' 'logistics' 'cyber-security'
+ 'unmanned-ground-vehicle' 'security-operations' 'wireless-communication'
+ 'homeland-security' 'unmanned-aerial-vehicle' 'security'
+ 'emergency-medical-services']"
+Be Strategic Solutions,                              7/2018,"B2B, B2G",1-10,Bootstrapped,                 $300,Released,Bootstrapped,300,1,0,Grant,$300,"['risk-management' 'artificial-intelligence' 'threat-intelligence'
+ 'decision-making' 'data-protection' 'behavior-analytics'
+ 'network-security' 'cyber-security' 'incident-response' 'gdpr'
+ 'coronavirus' 'security' 'learning-organization' 'compliance'
+ 'enterprise-solutions' 'simulation' 'disaster-recovery'
+ 'emergency-response']"
+GuardKnox,                              1/2016,B2B,51-200,ROUND A,                 $24M,Alpha,A,24M,2,7,A Round,$21M,"['connected-vehicles' 'cyber-security' 'vehicle-technology' 'hardware'
+ 'autonomous-vehicles' 'road-safety' 'security' 'fleet-management'
+ 'smart-mobility' 'driver-safety']"
+Cynomi,                              8/2020,B2B,1-10,Bootstrapped,,Beta,,,,,,,"['risk-assesments' 'grc' 'cyber-security' 'artificial-intelligence'
+ 'compliance']"
+Celare Cyber Systems,                              5/2012,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['homeland-security' 'monitoring' 'machine-learning' 'dpi'
+ 'cyber-security' 'big-data-analytics' 'behavior-analytics'
+ 'data-management' 'threat-detection' 'forensics' 'siem'
+ 'network-security']"
+AtmoSec,                              1/2021,B2B,1-10,Seed,,R&D,,,,,,,"['saas' 'data-protection' 'security' 'cyber-security' 'cloud-security'
+ 'enterprise-security']"
+Salt Security,                              1/2015,"B2B, B2G",51-200,ROUND C+,                 $130.1M,Released,C+,130.1M,5,10,C Round,$70M,"['web-application-firewall' 'cloud-services' 'application-security'
+ 'web-application' 'enterprise-solutions' 'api' 'cloud-security'
+ 'cyber-security' 'zero-day' 'vulnerability-management']"
+Check Point Software Technologies,                              7/1993,"B2B, B2G",500+,Public,,Released,,,,,,,"['mobile-security' 'software-applications' 'sdn' 'threat-intelligence'
+ 'endpoint-security' 'security-management' 'remote' 'cloud-security'
+ 'zero-day' 'threat-detection' 'cyber-security' 'network-security'
+ 'ransomware' 'messaging-security' 'enterprise-solutions' 'ips' 'firewall'
+ 'serverless' 'hardware' 'data-protection']"
+VeeWear,                              1/2016,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['mobile-security' 'authentication' 'privacy-protection' 'encryption'
+ 'cyber-security' 'voice']"
+TripleCyber,                              4/2012,B2B,1-10,ROUND A,,Released,A,0,1,1,A Round,,"['network-security' 'cyber-security' 'threat-intelligence' 'siem'
+ 'it-infrastructure' 'forensics' 'big-data-analytics'
+ 'security-operations' 'soc']"
+Merlinx,                              7/2014,"B2B, B2G",11-50,Bootstrapped,,Released,,,,,,,"['cyber-intelligence' 'android' 'homeland-security' 'surveillance'
+ 'encryption' 'cyber-warfare' 'cyber-security']"
+CyberX,                              12/2012,"B2B, B2G",51-200,ROUND B,                 $47.02M,Released,B,47.02M,5,12,Undisclosed Round,$18M,"['anomaly-detection' 'scada' 'smart-grid' 'industry-4.0' 'security'
+ 'monitoring' 'threat-detection' 'ips' 'machine-learning'
+ 'behavior-analytics' 'forensics' 'zero-day' 'ot' 'siem'
+ 'network-security' 'control-systems' 'critical-infastructure'
+ 'artificial-intelligence' 'transportation' 'malware' 'apt'
+ 'incident-response' 'm2m' 'cyber-security']"
+Ayehu Software Technologies,                              3/2007,B2B,51-200,ROUND B,                 $3.148M,Released,B,3.148M,2,1,B Round,$3M,"['network-security' 'cyber-security' 'soc' 'enterprise-solutions'
+ 'quarantine' 'it-management' 'orchestration' 'artificial-intelligence'
+ 'incident-response' 'network-management' 'it' 'automation']"
+Rescana,                              6/2016,B2B,1-10,Bootstrapped,,Released,,,,,,,"['risk-management' 'data-analytics' 'web-platform' 'cyber-security'
+ 'osint' 'enterprise-solutions']"
+IOT Armor Dome,                              2/2019,B2C,1-10,Bootstrapped,,Customer development,,,,,,,['cyber-security' 'iot']
+Sabres Security,                              8/2015,"B2B, B2G, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['behavior-analytics' 'enterprise-solutions' 'cms' 'website-security'
+ 'machine-learning' 'artificial-intelligence' 'cyber-security'
+ 'wordpress-plugin' 'data-protection' 'application-security' 'plugin']"
+Centraleyes,                              7/2016,"B2B, B2G",11-50,Seed,                 $2.8M,Released,Seed,2.8M,2,2,Seed,,"['saas' 'grc' 'compliance' 'training' 'threat-intelligence'
+ 'risk-management' 'vulnerability-assessment' 'critical-infastructure'
+ 'cyber-security' 'penetration-tests']"
+Cyolo,                              12/2019,B2B,11-50,ROUND A,                 $25.2M,Released,A,25.2M,2,6,A Round,$21M,"['firewall' 'identity-verification' 'cyber-security' 'connectivity'
+ 'access-control' 'network-security']"
+GYTpol,                              6/2018,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['it-management' 'software-applications' 'remote' 'network-security'
+ 'compliance' 'orchestration' 'quarantine' 'endpoint-security'
+ 'enterprise-solutions' 'cyber-security']"
+CardinalOps,                              2/2020,B2B,11-50,Seed,                 $6.5M,Beta,Seed,6.5M,1,2,Seed,$6.5M,"['threat-detection' 'enterprise-solutions' 'cyber-security'
+ 'network-security' 'security-operations' 'operations-optimization'
+ 'artificial-intelligence']"
+SenseCy,                              9/2014,"B2B, B2C, B2G, B2B2C",1-10,Revenue Financed,,Released,,,,,,,"['counselling-and-integration' 'webint' 'threat-intelligence' 'deep-web'
+ 'cyber-security' 'intelligence' 'osint' 'critical-infastructure'
+ 'cyber-intelligence' 'data-protection']"
+Sasa Software,                              11/2013,"B2B, B2G",11-50,ROUND A,,Released,,,,,,,"['email' 'file-security' 'ot' 'enterprise-security' 'cyber-security'
+ 'control-systems' 'operational-technology' 'it' 'messaging-security'
+ 'security-gateway' 'ransomware' 'spam-protection' 'zero-day'
+ 'data-protection' 'apt' 'network-security' 'malware' 'cdr']"
+Reflectiz,                              3/2016,B2B,11-50,ROUND A,                 $6M,Released,A,6M,2,4,A Round,$5M,"['cyber-security' 'monitoring' 'malvertising' 'behavior-analytics'
+ 'website-security' 'vulnerability-scanning' 'enterprise-security'
+ 'vulnerability-management' 'privacy-protection']"
+Lightspin,                              2/2020,B2B,11-50,ROUND A,                 $20M,Beta,A,20M,2,2,A Round,$16M,['cloud-security' 'threat-detection' 'cyber-security' 'kubernetes']
+QPrivacy,                              11/2017,B2B,11-50,Seed,,Released,Seed,0,1,1,Seed,,"['web-application' 'analytics' 'gdpr' 'cross-platform' 'fintech'
+ 'marketing-tools' 'cyber-security' 'regtech' 'machine-learning'
+ 'mobile-applications' 'data-management' 'encryption'
+ 'artificial-intelligence' 'privacy-protection' 'enterprise-solutions']"
+Namogoo,                              4/2014,B2B,51-200,ROUND C+,                 $68M,Released,C+,68M,4,9,C Round,$40M,"['customer-loyalty' 'malware' 'behavior-analytics' 'data-protection'
+ 'privacy-protection' 'artificial-intelligence' 'customer-engagement'
+ 'cyber-security' 'ecommerce' 'client-side-security' 'brand-protection'
+ 'adtech' 'machine-learning' 'gdpr' 'ad-blocking'
+ 'conversion-optimization']"
+Regulus Cyber,                              2/2016,"B2B, B2G",11-50,ROUND B,                 $10.3M,Released,B,10.3M,2,7,A Round,$4M,"['encryption' 'rf-technology' 'mobile-security' 'cyber-security' 'sensors'
+ 'smart-mobility' 'robotics' 'iot' 'anti-drones' 'autonomous-vehicles'
+ 'telemetry' 'drones' 'navigation' 'unmanned-aerial-vehicle']"
+CCUREx,                              6/2019,"B2B, B2C",1-10,Pre-Seed,,R&D,,,,,,,"['artificial-intelligence' 'data-protection' 'privacy-protection'
+ 'mobile-security' 'coronavirus' 'cyber-security' 'machine-learning'
+ 'vulnerability-assessment']"
+Cypago Security,                              8/2020,B2B,1-10,Seed,,R&D,Seed,0,1,1,Seed,,['cyber-security' 'fintech' 'enterprise-solutions' 'compliance']
+Doxin,                              4/2020,B2B,1-10,Bootstrapped,,Released,,,,,,,"['privacy-protection' 'encryption' 'saas' 'data-protection' 'compliance'
+ 'regulation' 'enterprise-security' 'gdpr' 'cyber-security']"
+iXDen,                              10/2016,B2B,1-10,Seed,,Beta,Seed,0,1,3,Seed,,"['behavior-analytics' 'artificial-intelligence' 'ot' 'transactions'
+ 'smart-grid' 'identity-verification' 'biometrics' 'connected-devices'
+ 'critical-infastructure' 'smart-home' 'fintech' 'smart-city'
+ 'patent-pending' 'cyber-security' 'control-systems' 'sensors' 'iot'
+ 'water' 'authentication' 'machine-learning' 'homeland-security'
+ 'payments']"
+Wist Network,                              9/2018,"B2B, B2C, B2G",1-10,Bootstrapped,                 $2.76K,Released,Bootstrapped,2.76K,1,0,Grant,$2.76K,"['digital-assets' 'fintech' 'cryptography' 'authentication' 'open-banking'
+ 'identity-verification' 'cyber-security' 'encryption' 'data-protection'
+ 'smart-city' 'ecommerce' 'enterprise-solutions' 'authorization'
+ 'biometrics' 'blockchain' 'anti-fraud' 'privacy-protection']"
+ReviveSec,                              8/2019,B2B,11-50,Bootstrapped,,R&D,,,,,,,"['cyber-security' 'firewall' 'automation' 'enterprise-solutions'
+ 'mobile-security' 'connected-devices' 'mobile-devices']"
+Sternum,                              5/2018,"B2B, B2G",11-50,ROUND B,                 $36.84M,Released,B,36.84M,4,9,B Round,$27M,"['smart-city' 'ransomware' 'data-protection' 'ot-cyber' 'cyber-security'
+ 'medical-equipment' 'smart-home' 'medical-products' 'compliance'
+ 'medical-devices' 'infrastructure' 'connected-devices' 'security'
+ 'machinery' 'iot-security' 'patent-pending' 'clinical-workflow' 'energy'
+ 'digital-healthcare' 'endpoint-security' 'equipment' 'sensors'
+ 'cyber-threat-analysis' 'energytech' 'industry-4.0' 'iot']"
+Cyabra,             2018,"B2B, B2G",11-50,Seed,                 $1M,Released,Seed,1M,1,1,Seed,$1M,"['social-media' 'deep-learning' 'authentication'
+ 'natural-language-processing' 'cyber-intelligence' 'news'
+ 'incident-response' 'social-networks' 'behavior-analytics'
+ 'artificial-intelligence' 'monitoring' 'identity-verification'
+ 'cyber-threat-analysis' 'brand-protection' 'cyber-security'
+ 'machine-learning']"
+BATM,                              1/1992,"B2B, B2G",51-200,Public,,Released,,,,,,,"['it' 'cellular-backhaul' 'diagnostics' 'sdn' 'cloud' 'medical-equipment'
+ 'waste-to-energy' 'dpi' 'waste-disposal' 'cyber-security'
+ 'telecommunication' 'telecommunication-equipment' 'networking' 'ethernet'
+ 'broadband' 'coronavirus' 'waste-tech']"
+MinerEye,                              2/2015,B2B,11-50,ROUND A,                 $6.1M,Released,A,6.1M,3,2,Grant,$2.5M,"['data-protection' 'security' 'computer-vision' 'forensics'
+ 'mobile-security' 'enterprise-solutions' 'machine-learning'
+ 'artificial-intelligence' 'data-governance' 'data-management'
+ 'compliance' 'big-data-analytics' 'privacy-protection' 'auditing'
+ 'cloud-migration' 'cyber-security' 'enterprise-security' 'gdpr'
+ 'network-security']"
+Enquantum,                              8/2020,"B2B, B2B2C",1-10,Seed,,R&D,Seed,0,1,0,Seed,,"['cryptography' 'cyber-security' 'artificial-intelligence'
+ 'cloud-security' 'field-programmable-gate-array']"
+SecBI,                              6/2014,B2B,11-50,ROUND A,                 $6.5M,Released,A,6.5M,2,5,A Round,$5M,"['network-security' 'siem' 'saas' 'critical-infastructure' 'orchestration'
+ 'incident-response' 'cyber-security' 'intelligence' 'cyber-intelligence'
+ 'data-breach' 'threat-intelligence' 'web-traffic' 'behavior-analytics'
+ 'cyber-threat-analysis' 'cyber-insurance' 'big-data-analytics'
+ 'threat-detection' 'monitoring' 'security-operations' 'forensics' 'soc']"
+Securepush,                              12/2011,B2B,1-10,Seed,                 $2.9M,Released,Seed,2.9M,4,2,Convertible Debt,$1.5M,"['mobile-applications' 'cyber-security' 'authentication' 'location-based'
+ 'fleet-management' 'smart-mobility' 'big-data-analytics' 'encryption'
+ 'access-control' 'iot' 'oem' 'iot-platform' 'connected-devices'
+ 'iot-security' 'consumer-electronics' 'identity-verification']"
+Brandefender,                              5/2018,B2B,11-50,Bootstrapped,,R&D,,,,,,,"['machine-learning' 'marketplace' 'ecommerce' 'ransomware'
+ 'brand-protection' 'artificial-intelligence' 'computer-vision'
+ 'natural-language-processing' 'cyber-security' 'saas' 'online-shopping'
+ 'social-media' 'phishing']"
+Kazuar,                              2/2014,"B2B, B2C, B2B2C",11-50,Bootstrapped,,Released,,,,,,,"['cyber-security' 'cloud-security' 'network-security' 'data-protection'
+ 'isolation' 'encryption']"
+IntSights,                              1/2015,B2B,201-500,ROUND C+,                 $71.3M,Released,C+,71.3M,5,8,D Round,$30M,"['cyber-intelligence' 'deep-web' 'industry-4.0' 'anti-fraud' 'phishing'
+ 'threat-intelligence' 'cyber-security' 'dashboard' 'network-visibility'
+ 'brand-protection' 'network-security' 'orchestration']"
+Claroty,                              10/2014,"B2B, B2G",201-500,ROUND C+,                 $232M,Released,C+,232M,3,18,D Round,$140M,"['operational-technology' 'network-security' 'critical-infastructure'
+ 'iot' 'industrial-networks' 'energytech' 'cyber-security' 'scada' 'ot'
+ 'quarantine' 'threat-intelligence' 'industry-4.0' 'control-systems' 'otc'
+ 'unicorn' 'ot-cyber']"
+CYREBRO,                              4/2013,B2B,51-200,ROUND B,                 $21M,Released,B,21M,2,4,B Round,$15M,"['network-security' 'machine-learning' 'incident-response'
+ 'penetration-tests' 'enterprise-security' 'security-operations'
+ 'cyber-intelligence' 'soc' 'cyber-security']"
+Assac Networks,                              11/2011,"B2B, B2G",1-10,Revenue Financed,                 $2M,Released,Revenue Financed,2M,1,1,Seed,$2M,"['mobile-applications' 'cyber-security' 'mobile-security' 'dialer' 'vpn'
+ 'forensics' 'mobile-networks' 'critical-infastructure'
+ 'telecommunication' 'scada' 'byod' 'encryption']"
+Cycode,                              7/2019,B2B,11-50,ROUND A,                 $24.6M,R&D,A,24.6M,2,6,A Round,$20M,"['network-security' 'cyber-security' 'risk-management'
+ 'network-visibility' 'anomaly-detection' 'enterprise-security' 'dlp'
+ 'cloud-security' 'data-protection']"
+Hermetric,                              5/2014,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['ddos' 'data-protection' 'vulnerability-management' 'website-security'
+ 'higher-education' 'saas' 'dlp' 'software-applications'
+ 'enterprise-security' 'cyber-security']"
+Kovrr,                              11/2016,B2B,11-50,ROUND A,                 $5.5M,Released,A,5.5M,3,5,A Round,$5.5M,"['predictive-analytics' 'risk-management' 'cyber-security' 'underwriting'
+ 'fintech' 'artificial-intelligence' 'cyber-insurance' 'risk-assesments'
+ 'portfolio-management' 'insurtech']"
+Rayzone Group,                              2/2010,B2G,51-200,Revenue Financed,,Released,,,,,,,"['cyber-technology' 'big-data-analytics' 'tactical-gear' 'cyber-security'
+ 'homeland-security' 'gsm' 'intelligence' 'cyber-warfare'
+ 'cyber-intelligence' 'osint']"
+Cylus,                              4/2017,"B2B, B2G",11-50,ROUND A,                 $23.7M,Released,A,23.7M,3,11,Undisclosed Round,$7M,"['smart-mobility' 'cyber-threat-analysis' 'traffic' 'trains' 'smart-city'
+ 'public-transportation' 'cyber-security' 'threat-detection'
+ 'network-security' 'transportation']"
+Checkmarx,                              4/2006,B2B,500+,ROUND B,                 $14.5M,Released,B,14.5M,2,3,B Round,$8M,"['vulnerability-assessment' 'software-testing' 'secure-coding'
+ 'penetration-tests' 'application-security' 'data-analytics'
+ 'cyber-security' 'app-development' 'application-security-testing'
+ 'compliance' 'threat-intelligence' 'code']"
+Comtec,                              2/1976,B2B,11-50,Established,,Released,,,,,,,"['grc' 'software-house' 'it' 'insurtech' 'claim-management'
+ 'messaging-security' 'email' 'enterprise-security' 'enterprise-solutions'
+ 'cyber-security' 'compliance' 'fintech' 'data-protection']"
+Grip Security,                              1/2021,B2B,11-50,Seed,                 $6M,Alpha,Seed,6M,1,6,Seed,$6M,"['network-security' 'enterprise-solutions' 'security' 'data-protection'
+ 'saas' 'enterprise-security' 'cyber-security']"
+EverC,                              1/2007,B2B,51-200,ROUND B,                 $48M,Released,B,48M,4,8,B Round,$35M,"['software-applications' 'grc' 'risk-management' 'cyber-security'
+ 'threat-intelligence' 'ids' 'compliance' 'transactions' 'ecommerce' 'aml'
+ 'fintech' 'anti-fraud']"
+Suridata.ai,                              7/2019,B2B,11-50,Seed,                 $2.1M,Released,Seed,2.1M,1,5,Seed,$2.1M,"['cyber-security' 'natural-language-processing' 'gdpr' 'machine-learning'
+ 'regulation' 'privacy-protection' 'artificial-intelligence' 'compliance'
+ 'data-protection' 'enterprise-solutions']"
+VisibleRisk,                              7/2019,B2B,11-50,ROUND A,                 $30M,Released,A,30M,2,2,A Round,$25M,['cyber-security']
+NOVELSAT,                              10/2007,"B2B, B2G",51-200,Revenue Financed,,Released,,,,,,,"['ip-backhaul-networks' 'wireless-communication' 'satellite-modem'
+ 'enterprise-solutions' 'transmission' 'cellular-backhaul'
+ 'network-management' 'satellites' 'telecommunication' 'streaming'
+ 'broadcasting' 'astronautics' 'video-content' 'critical-infastructure'
+ '4g-networks' 'cyber-security' 'mobile-networks' 'sigint'
+ 'data-communication' 'satellite-imagery' 'astrospace' 'broadband'
+ '5g-networks' 'space-tech' 'data-protection' 'network-management' 'iot'
+ 'vsat' 'communication-protocols' 'satcom' 'ott' 'data-communication'
+ 'telecommunication-equipment']"
+NSO Group,                              12/2009,B2G,500+,Seed,                 $1.6M,Released,Seed,1.6M,1,2,Seed,$1.6M,"['drones' 'intelligence' 'public-safety' 'vulnerability-assessment'
+ 'mobile-security' 'cyber-security' 'coronavirus' 'threat-intelligence'
+ 'cyber-intelligence' 'analytics' 'artificial-intelligence'
+ 'cyber-warfare' 'penetration-tests']"
+Asparna,                              1/2010,B2B,1-10,Revenue Financed,                 $4.05M,Beta,Revenue Financed,4.05M,3,0,Convertible Debt,$1.7M,"['smart-mobility' 'blockchain' 'monitoring' 'collaboration' 'file-sharing'
+ 'mobile-devices' 'cyber-security' 'cross-platform' 'chat'
+ 'privacy-protection' 'research']"
+Elefend Security,                              7/2019,"B2B, B2C",1-10,Bootstrapped,,Beta,,,,,,,"['voice-analytics' 'monitoring' 'identity-verification' 'anti-fraud'
+ 'artificial-intelligence' 'cyber-security']"
+FortifyIQ,                              3/2020,B2B,11-50,Bootstrapped,,Customer development,,,,,,,"['patent-pending' 'enterprise-solutions' 'vulnerability-management'
+ 'cyber-security' 'hardware' 'chips-design' 'semiconductors'
+ 'cryptography']"
+Talon Cyber Security,                              2/2021,B2B,1-10,Seed,                 $26M,R&D,Seed,26M,1,3,Seed,$26M,['enterprise-solutions' 'cloud-security' 'remote' 'cyber-security']
+Cybring Labs,                              10/2017,"B2B, B2C, B2G, B2B2C",1-10,Bootstrapped,,Alpha,,,,,,,"['threat-intelligence' 'behavior-analytics' 'network-security'
+ 'artificial-intelligence' 'cyber-security' 'enterprise-security'
+ 'data-protection' 'training' 'penetration-tests' 'enterprise-solutions'
+ 'machine-learning' 'iot']"
+ARTcybe,                              11/2017,B2B,1-10,Bootstrapped,,Customer development,,,,,,,"['clinical-workflow' 'artificial-intelligence' 'healthcare-it'
+ 'threat-detection' 'cyber-security' 'medical-devices' 'medical-equipment'
+ 'data-protection' 'machine-learning' 'digital-healthcare'
+ 'vulnerability-management' 'behavior-analytics' 'medical-technologies']"
+Riskified,                              11/2012,B2B,201-500,Public,                 $228.7M,Released,Public,228.7M,5,17,E Round,$165M,"['anti-fraud' 'online-shopping' 'payments' 'enterprise-solutions'
+ 'transactions' 'deep-learning' 'artificial-intelligence' 'ecommerce'
+ 'behavior-analytics' 'security' 'machine-learning'
+ 'software-applications' 'cyber-security' 'fintech' 'risk-management']"
+Blaick Technologies,                              6/2016,"B2B, B2G",1-10,Seed,,Released,Seed,0,2,2,Seed,,"['enterprise-security' 'security' 'endpoint-security' 'cloud-security'
+ 'artificial-intelligence' 'machine-learning' 'saas' 'patent-pending'
+ 'firewall' 'cyber-security' 'malware' 'mobile-security'
+ 'homeland-security' 'enterprise-solutions' 'website-security' 'phishing']"
+Millworx,                              1/2019,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['cyber-security']
+DoControl,                              6/2020,B2B,11-50,ROUND A,                 $13.5M,Released,A,13.5M,2,4,A Round,$10M,"['network-security' 'cyber-security' 'data-protection'
+ 'enterprise-solutions']"
+Secret Double Octopus,                              5/2015,"B2B, B2G",11-50,ROUND B,                 $22.5M,Released,B,22.5M,5,11,Undisclosed Round,,"['anti-fraud' 'enterprise-solutions' 'multi-factor-authentication'
+ 'mobile-applications' 'security' 'authentication' 'cloud-security'
+ 'encryption' 'quarantine' 'data-protection' 'iot' 'cyber-security'
+ 'cross-platform' 'network-security']"
+Duality Technologies,                              9/2016,B2B,11-50,ROUND B,                 $50M,Released,B,50M,3,6,B Round,$30M,"['coronavirus' 'data-protection' 'privacy-protection' 'cryptography'
+ 'encryption' 'data-analytics' 'collaboration' 'homomorphic-encryption'
+ 'artificial-intelligence' 'cyber-security' 'compliance'
+ 'enterprise-solutions' 'open-banking' 'machine-learning' 'authentication']"
+Akita,                              1/2016,"B2B, B2C, B2B2C",11-50,Seed,                 $900K,Released,Seed,900K,2,2,Crowdfunding,$900K,"['blockchain' 'connected-devices' 'machine-learning' 'smart-home'
+ 'iot-platform' 'iot-security' 'cyber-security' 'threat-intelligence'
+ 'artificial-intelligence' 'iot' 'mobile-applications'
+ 'behavior-analytics' 'patent-pending']"
+SeeMetrics,                              7/2021,B2B,1-10,Pre-Seed,,Released,,,,,,,['cyber-security']
+Cervello,                              9/2018,"B2B, B2G",11-50,Seed,                 $4.5M,Released,Seed,4.5M,1,3,Seed,$4.5M,"['cyber-security' 'smart-mobility' 'fleet-management' 'orchestration'
+ 'risk-assesments' 'threat-intelligence' 'iot' 'trains'
+ 'public-transportation' 'threat-detection' 'network-security'
+ 'homeland-security']"
+CYMOTIVE Technologies,                              9/2016,B2B,51-200,Established,,Released,,,,,,,"['connected-vehicles' 'risk-assesments' 'driver-safety' 'ids'
+ 'cyber-security' 'smart-mobility']"
+Enso Security,                              8/2020,B2B,11-50,Seed,                 $6M,Released,Seed,6M,1,6,Seed,$6M,['cyber-security' 'application-security' 'saas' 'asset-management']
+Waterfall Security Solutions,                              12/2006,"B2B, B2G",51-200,Seed,                 $3M,Released,Seed,3M,1,0,Seed,$3M,"['smart-mobility' 'network-security' 'perimeter-security' 'transportation'
+ 'industry-4.0' 'cyber-insurance' 'homeland-security' 'control-systems'
+ 'remote-monitoring' 'cyber-security' 'power-plants'
+ 'critical-infastructure' 'hardware' 'scada' 'trains'
+ 'public-transportation']"
+Cyronix,             2019,B2B,11-50,Bootstrapped,,R&D,,,,,,,['penetration-tests' 'cyber-security' 'cloud']
+Perytons,                              1/2007,"B2B, B2G",1-10,Revenue Financed,                 $58K,Released,Revenue Financed,58K,1,0,Grant,$58K,"['parking' 'network-security' 'smart-city' 'big-data-analytics'
+ 'vulnerability-assessment' 'anomaly-detection' 'iot'
+ 'communication-protocols' 'telecommunication' 'network-management'
+ 'mobile-networks' 'sensors' 'smart-farming' 'wireless-communication'
+ 'cyber-security' 'connected-devices']"
+MyPrivacy,                              5/2012,B2C,1-10,ROUND A,                 $3.5M,Released,A,3.5M,2,4,A Round,$2.5M,"['cyber-security' 'privacy-protection' 'data-protection' 'cloud'
+ 'authorization' 'identity-verification' 'endpoint-security'
+ 'mobile-applications']"
+PixMole Technologies,                              1/2019,B2B,1-10,Bootstrapped,,Released,,,,,,,"['machine-learning' 'digital-media' 'copyright-protection'
+ 'enterprise-solutions' 'cyber-security' 'privacy-protection' 'monitoring']"
+Satori Cyber,                              9/2019,"B2B, B2G",51-200,ROUND A,                 $25.25M,Beta,A,25.25M,2,3,A Round,$20M,"['cyber-security' 'hybrid' 'cloud-security' 'data-storage'
+ 'anomaly-detection' 'real-time' 'enterprise-security' 'cloud'
+ 'compliance' 'data-protection']"
+SensePass,                              4/2017,"B2B, B2B2C",1-10,Seed,                 $3.3M,Released,Seed,3.3M,1,1,Seed,$3.3M,"['point-of-sale' 'enterprise-solutions' 'data-protection' 'patent-pending'
+ 'location-based' 'personal-finance' 'tokenization' 'fintech'
+ 'retail-technology' 'iot' 'connectivity' 'customer-engagement'
+ 'authentication' 'notifications' 'payments' 'mobile-applications'
+ 'cyber-security' 'bluetooth']"
+PerimeterX,                              11/2014,B2B,51-200,ROUND C+,                 $151.5M,Released,C+,151.5M,6,11,D Round,$57M,"['mobile-applications' 'behavior-analytics' 'ecommerce' 'web-application'
+ 'bot-detection' 'mobile-security' 'anti-fraud' 'bots' 'ddos'
+ 'cyber-security' 'website-security' 'vulnerability-management']"
+Reposify,                              5/2016,"B2B, B2G",11-50,Seed,,Released,Seed,0,1,2,Seed,,"['risk-management' 'digital-assets' 'ddos' 'data-mining' 'forensics'
+ 'vulnerability-assessment' 'cyber-security' 'search-engine'
+ 'supply-chain' 'api' 'asset-management' 'business-intelligence' 'iot']"
+Nation-E,                              12/2012,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['critical-infastructure' 'network-security' 'firewall' 'smart-buildings'
+ 'cyber-security' 'siem' 'scada' 'smart-grid'
+ 'energy-control-and-management' 'industry-4.0']"
+Portnox,                              2/2007,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['cyber-security' 'network-security' 'iot' 'access-control' 'iam'
+ 'virtualization' 'byod' 'network-management' 'connected-devices'
+ 'intelligence' 'soc' 'mobile-applications']"
+Argus Cyber Security,                              2/2013,B2B,51-200,ROUND B,                 $30M,Released,B,30M,2,6,B Round,$26M,"['autonomous-vehicles' 'vulnerability-assessment' 'software-platform'
+ 'cyber-security' 'smart-mobility' 'connected-vehicles' 'dpi'
+ 'penetration-tests' 'cyber-intelligence' 'mobile-security' 'ips' 'ids'
+ 'security' 'cyber-threat-analysis']"
+Cognni,                              9/2017,B2B,11-50,Seed,                 $4M,Released,Seed,4M,1,1,Seed,$4M,"['risk-management' 'cloud-security' 'enterprise-security'
+ 'data-governance' 'gdpr' 'artificial-intelligence' 'dlp' 'cloud'
+ 'data-protection' 'cyber-security' 'vulnerability-management'
+ 'compliance' 'file-security']"
+QuantumLeap,                              1/2020,"B2B, B2G",1-10,Bootstrapped,,Customer development,,,,,,,"['solar-energy' 'communication-protocols' 'industry-4.0'
+ 'quantum-computing' 'cyber-security' 'energy' 'chemicals' 'iot-platform'
+ 'iot' 'communications' 'saas' 'space-research' 'space-tech'
+ 'optical-communication' 'logistics' 'hardware' 'iot-security'
+ 'energytech' 'home-iot' 'renewable-energy' 'enterprise-solutions'
+ 'cleantech' 'power-management' 'energy-saving' 'agtech']"
+ClickCease,                              7/2014,B2B,11-50,Revenue Financed,,Released,,,,,,,"['tracking' 'cyber-security' 'behavior-analytics' 'analytics'
+ 'advertising' 'bot-detection' 'mobile-applications' 'anti-fraud' 'adtech'
+ 'automation']"
+ECI Telecom,                              2/1961,"B2B, B2G",500+,Established,                 $222.5M,Released,Established,222.5M,3,5,Debt Financing,$32.5M,"['network-function-virtualization' 'siem' 'optronics' 'cyber-security'
+ 'enterprise-security' 'ids' 'telecommunication' 'smart-city' 'sdn'
+ 'broadband' 'ips' 'communications' 'network-management'
+ 'enterprise-networking' 'network-security']"
+Alcide,                              7/2016,B2B,11-50,ROUND A,                 $12.2M,Released,A,12.2M,2,3,A Round,$7M,"['orchestration' 'cloud-services' 'vulnerability-assessment'
+ 'network-security' 'endpoint-security' 'compliance' 'aws'
+ 'enterprise-solutions' 'data-center-security' 'artificial-intelligence'
+ 'sdn' 'virtualization' 'cyber-security' 'enterprise-security'
+ 'cloud-security' 'firewall' 'containers' 'application-security'
+ 'monitoring' 'access-control' 'security' 'vulnerability-management']"
+InCyber,                              6/2016,"B2B, B2C, B2G",1-10,Seed,                 $2M,Released,Seed,2M,1,1,Seed,$2M,"['enterprise-security' 'anti-fraud' 'cyber-security' 'auditing'
+ 'data-protection' 'insider-threat' 'compliance']"
+Verifyoo,                              10/2015,"B2B, B2G",1-10,Seed,                 $2.2M,Beta,Seed,2.2M,4,1,Seed,$650K,"['biometrics' 'fintech' 'behavioral-biometrics' 'identity-verification'
+ 'behavior-analytics' 'authentication' 'cyber-security' 'iot'
+ 'access-control' 'payments' 'anti-fraud']"
+AirEye,                              1/2019,"B2B, B2G",11-50,ROUND A,                 $8M,Released,A,8M,2,4,A Round,$8M,"['enterprise-solutions' 'saas' 'network-visibility' 'network-security'
+ 'wireless-control' 'enterprise-security' 'cyber-security']"
+Silicom,                              4/1987,B2B,201-500,Public,,Released,,,,,,,"['encryption' 'telecommunication' 'switches' 'routing'
+ 'enterprise-solutions' 'sdn' 'oem' 'servers' 'social-networks'
+ 'cyber-security' 'telecommunication-equipment' 'network-security'
+ 'virtualization' 'networking' 'connectivity']"
+Sodipass,                              1/2016,"B2B, B2G",1-10,Pre-Seed,,R&D,,,,,,,"['machine-learning' 'artificial-intelligence' 'biometrics'
+ 'cyber-security' 'deep-learning' 'mobile-security' 'encryption'
+ 'security' 'authentication']"
+eLoomina,                              4/2019,B2B,1-10,Seed,                 $450K,R&D,Seed,450K,1,2,Seed,$450K,"['cyber-security' 'insider-threat' 'artificial-intelligence'
+ 'enterprise-solutions' 'behavior-analytics' 'software-applications'
+ 'workforce-management' 'enterprise-security' 'hr' 'risk-management'
+ 'data-analytics']"
+Control's Force,                              1/2007,"B2B, B2G, B2B2C",1-10,Seed,                 $1.2M,Released,Seed,1.2M,2,3,Seed,$900K,"['blockchain' 'data-analytics' 'management-solutions'
+ 'artificial-intelligence' 'predictive-analytics' 'fintech' 'transactions'
+ 'saas' 'big-data' 'insider-threat' 'cyber-security' 'anti-fraud']"
+CyberMDX,                              12/2016,B2B,51-200,ROUND A,                 $30M,Released,A,30M,3,4,Undisclosed Round,$20M,"['iot' 'connected-devices' 'machine-learning' 'clinical-workflow'
+ 'incident-response' 'artificial-intelligence' 'medical-devices'
+ 'monitoring' 'vulnerability-management' 'digital-healthcare'
+ 'cyber-security' 'threat-detection']"
+Vdoo,                              7/2017,"B2B, B2G",51-200,ROUND B,                 $70M,Beta,B,70M,3,12,B Round,$25M,"['smart-city' 'industry-4.0' 'iot' 'penetration-tests' 'cyber-security'
+ 'smart-buildings' 'connected-devices' 'vulnerability-management'
+ 'smart-mobility' 'network-security' 'application-security-testing'
+ 'threat-intelligence' 'security']"
+Israel Aerospace Industries,                              2/1953,"B2B, B2G",500+,Established,,Released,,,,,,,"['nanotechnology' 'combat' 'unmanned-aerial-systems' 'control-systems'
+ 'automation' 'space-tech' 'airports' 'mining' 'homeland-security'
+ 'electronic-manufacturing' 'robotics' 'coronavirus' 'cyber-security'
+ 'satellites' 'optronics']"
+Cybersixgill,                              3/2014,"B2B, B2G",51-200,ROUND B,                 $20M,Released,B,20M,3,6,Undisclosed Round,,"['cyber-security' 'alert-system' 'behavior-analytics' 'intelligence'
+ 'incident-response' 'threat-intelligence' 'cyber-intelligence'
+ 'website-security' 'deep-web' 'vulnerability-management' 'dlp']"
+SEGURO Cyber Industries,                              1/2015,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['ddos' 'telecommunication' 'enterprise-security' 'mobile-applications'
+ 'cyber-security' 'encryption' 'mobile-security' 'byod']"
+Cyber Meters Networks,                              4/2020,B2B,1-10,Pre-Seed,,Alpha,,,,,,,"['water-meters' 'threat-detection' 'electric-power' 'electric-vehicles'
+ 'iot-security' 'ot' 'cyber-security' 'iot']"
+Orca Security,                              1/2019,B2B,51-200,ROUND C+,                 $631.5M,Released,C+,631.5M,5,14,C Round,$340M,"['unicorn' 'compliance' 'network-security' 'cyber-security'
+ 'network-visibility' 'iaas' 'aws' 'cloud-security' 'saas' 'containers'
+ 'cloud-services' 'hybrid-cloud' 'enterprise-solutions' 'data-protection'
+ 'paas']"
+Telicomm,                              12/2016,"B2B, B2G",11-50,ROUND A,                 $1.77M,R&D,A,1.77M,3,5,A Round,$1.3M,"['wireless-communication' '5g-networks' 'telecommunication' 'video' 'iot'
+ 'patent-pending' 'cyber-security' 'cameras' 'smart-city']"
+Arilou Technologies,                              9/2010,B2B,11-50,Revenue Financed,,Released,,,,,,,"['counselling-and-integration' 'autonomous-vehicles' 'security'
+ 'vulnerability-assessment' 'detection' 'iot' 'smart-mobility'
+ 'patent-pending' 'authentication' 'connected-vehicles' 'cyber-security'
+ 'penetration-tests']"
+EdgeHawk Security,                              1/2020,B2B,1-10,Seed,                 $2.5M,Released,Seed,2.5M,1,1,Seed,$2.5M,['mobile-security' 'cloud-security' '5g-networks' 'cyber-security']
+NetNut,                              2/2017,B2B,11-50,Bootstrapped,,Released,,,,,,,"['enterprise-solutions' 'brand-protection' 'network-security'
+ 'campaign-optimization' 'vpn' 'cyber-security' 'advertising']"
+AC/DC_net,                              8/2006,B2B,1-10,Revenue Financed,,Released,,,,,,,"['cyber-security' 'data-protection' 'encryption'
+ 'counselling-and-integration' 'hardware']"
+PlainID,                              7/2014,"B2B, B2G",51-200,ROUND A,                 $13M,Released,A,13M,2,8,A Round,$11M,"['authorization' 'network-security' 'authentication' 'orchestration'
+ 'access-control' 'iam' 'cyber-security' 'network-visibility'
+ 'cloud-based']"
+AGAT Software,                              8/2013,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['encryption' 'collaboration' 'cyber-security' 'authentication'
+ 'threat-detection' 'mobile-security' 'cloud-security'
+ 'multi-factor-authentication' 'enterprise-solutions' 'dlp'
+ 'access-control' 'ddos' 'iam' 'pki']"
+DocAuthority,                              4/2013,"B2B, B2G",11-50,ROUND A,                 $15.85M,Released,A,15.85M,3,8,A Round,$3.25M,"['data-analytics' 'dlp' 'data-management' 'cyber-security'
+ 'data-governance' 'file-security' 'artificial-intelligence'
+ 'data-protection']"
+NanoLock Security,                              3/2017,B2B,11-50,ROUND B,                 $18.2M,Released,B,18.2M,5,4,B Round,$8.2M,"['iot-security' 'smart-city' 'endpoint-security' 'cyber-security'
+ 'industry-4.0' 'data-protection' 'threat-intelligence'
+ 'enterprise-security' 'smart-grid' 'ransomware' 'connected-devices'
+ 'critical-infastructure']"
+Mitiga,                              7/2019,B2B,11-50,ROUND A,                 $32M,Released,A,32M,2,8,A Round,$25M,"['cloud-security' 'enterprise-solutions' 'incident-response'
+ 'threat-intelligence' 'cyber-security']"
+WhiteSource,                              5/2011,"B2B, B2G",201-500,ROUND C+,                 $121M,Released,C+,121M,4,7,D Round,$75M,"['enterprise-solutions' 'application-security-testing' 'cloud-security'
+ 'enterprise-security' 'cloud' 'open-source' 'saas' 'compliance'
+ 'due-diligence' 'cyber-security' 'application-security'
+ 'software-lifecycle-managment']"
+Enigma,                              6/2016,B2B,11-50,Seed,                 $46.35M,Beta,Seed,46.35M,3,5,Undisclosed Round,,"['blockchain' 'transactions' 'cryptography' 'fintech' 'cyber-security'
+ 'bitcoin' 'ethereum' 'encryption' 'data-protection' 'privacy-protection']"
+Cybereason,                              7/2012,B2B,500+,ROUND C+,                 $713.6M,Released,C+,713.6M,7,7,F Round,$50M,"['apt' 'mdr' 'monitoring' 'ids' 'ransomware' 'mobile-security'
+ 'cyber-security' 'network-security' 'threat-detection' 'malware'
+ 'enterprise-solutions' 'threat-intelligence' 'incident-response'
+ 'unicorn' 'machine-learning' 'behavior-analytics' 'security'
+ 'artificial-intelligence' 'big-data-analytics' 'endpoint-security'
+ 'forensics' 'enterprise-security' 'edr' 'threat-hunting']"
+beame.io,                              8/2015,"B2B, B2C",11-50,Seed,,Released,,,,,,,"['identity-verification' 'mobile-devices' 'sdk' 'pki' 'mobile-security'
+ 'connectivity' 'cyber-security' 'data-protection' 'patent-pending'
+ 'cryptography' 'encryption' 'privacy-protection' 'mobile-applications'
+ 'blockchain' 'presentations']"
+Reason Cybersecurity,                              1/2012,"B2B, B2C",11-50,Revenue Financed,,Released,,,,,,,"['safe-browsing' 'cyber-security' 'threat-detection' 'threat-intelligence'
+ 'privacy-protection' 'real-time' 'malware' 'website-security'
+ 'ransomware' 'endpoint-security']"
+SENSE,                              2/2014,"B2B, B2G, B2B2C",1-10,Seed,                 $890K,Released,Seed,890K,4,3,Pre-Seed,$50K,"['sensors' 'soc' 'data-visualization' 'iot' 'cognitive' 'infrastructure'
+ 'big-data-analytics' 'homeland-security' 'machine-learning'
+ 'perimeter-security' 'border-security' 'siem' 'critical-infastructure'
+ 'enterprise-security' 'cyber-security' 'network-security' 'big-data'
+ 'incident-response' 'data-mining' 'artificial-intelligence'
+ 'enterprise-solutions' 'events' 'cloud-security' 'healthcare' 'security'
+ 'smart-city']"
+TrulyProtect,                              1/2012,B2B,1-10,Revenue Financed,                 $1.41M,Released,Revenue Financed,1.41M,1,0,Grant,$1.41M,"['secure-coding' 'endpoint-security' 'virtualization' 'drm'
+ 'game-development' 'privacy-protection' 'application-security'
+ 'encryption' 'data-protection' 'app-development' 'cyber-security'
+ 'intellectual-property']"
+BLST Security,                              2/2021,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['cyber-security' 'deep-neural-networks' 'api' 'cloud-based'
+ 'enterprise-solutions' 'machine-learning' 'enterprise-security'
+ 'security' 'artificial-intelligence' 'application-security'
+ 'anomaly-detection' 'penetration-tests']"
+Gita Technologies,                              5/2000,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['intelligence' 'surveillance' 'cyber-warfare' 'encryption'
+ 'homeland-security' 'sigint' 'signal-processing' 'cyber-security']"
+Cywareness,                              3/2020,B2B,1-10,Bootstrapped,,Beta,,,,,,,"['knowledge-technology' 'cyber-security' 'enterprise-security'
+ 'simulators' 'data-protection' 'employee-training']"
+Plexivo,                              2/2018,B2B,1-10,Bootstrapped,,R&D,,,,,,,['iot' 'cyber-warfare' 'simulation' 'games' 'training' 'cyber-security']
+Terafence,                              11/2015,"B2B, B2G",11-50,Seed,                 $2M,Released,Seed,2M,2,1,Seed,$2M,"['smart-buildings' 'network-security' 'patent-pending' 'cyber-security'
+ 'medical-devices' 'chips-design' 'connectivity' 'iot' 'industry-4.0'
+ 'enterprise-solutions' 'connected-devices' 'enterprise-security']"
+Ekron Software,                              10/2020,"B2B, B2G",11-50,Bootstrapped,,R&D,,,,,,,['smart-city' 'proptech' 'cyber-security']
+YazamTech,                              3/2008,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['ids' 'apt' 'network-security' 'zero-day' 'ransomware' 'spear-phishing'
+ 'cdr' 'hardware' 'file-security' 'cyber-security' 'dlp']"
+Imvision,                              1/2016,B2B,11-50,ROUND A,                 $4M,Released,A,4M,1,2,A Round,$4M,"['behavior-analytics' 'enterprise-security' 'virtualization'
+ 'mobile-networks' 'enterprise-solutions' 'api'
+ 'natural-language-processing' 'ids' 'network-security' 'fintech'
+ 'machine-learning' 'telecommunication' 'cloud-security' 'sdn'
+ 'cyber-security' 'anomaly-detection' 'isolation' 'smart-mobility'
+ 'artificial-intelligence' 'application-security']"
+Sital Technology,             1993,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,['cyber-security' 'testing' 'smart-mobility' 'connectivity']
+DeepKeep,                              1/2021,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['security' 'machine-learning' 'cyber-security' 'artificial-intelligence']
+Naval Dome,                              1/2016,"B2B, B2G",11-50,Seed,,Released,Seed,0,1,1,Undisclosed Round,,"['supply-chain' 'transportation' 'security' 'smart-mobility'
+ 'anomaly-detection' 'monitoring' 'data-protection' 'cyber-security' 'iot'
+ 'endpoint-security' 'file-security']"
+Siemplify,                              1/2015,B2B,51-200,ROUND C+,                 $58M,Released,C+,58M,4,13,C Round,$30M,"['behavior-analytics' 'orchestration' 'forensics' 'monitoring' 'siem'
+ 'automation' 'incident-response' 'anomaly-detection' 'analysis-software'
+ 'threat-intelligence' 'soc' 'machine-learning' 'network-security'
+ 'cyber-security']"
+Sepio Systems,                              4/2016,"B2B, B2G",11-50,ROUND A,                 $15M,Released,A,15M,5,7,Undisclosed Round,$4M,"['siem' 'enterprise-security' 'cyber-security' 'endpoint-security' 'usb'
+ 'network-visibility' 'hardware' 'network-security' 'threat-intelligence'
+ 'dlp' 'threat-detection' 'connected-devices' 'critical-infastructure']"
+KELA Group,                              12/2009,"B2B, B2G",51-200,Revenue Financed,                 $50M,Released,Revenue Financed,50M,1,1,Undisclosed Round,$50M,"['cyber-security' 'data-protection' 'automation' 'analysis-software'
+ 'dashboard' 'intelligence' 'threat-intelligence' 'enterprise-solutions'
+ 'enterprise-security' 'national-security' 'anti-fraud' 'mobile-security'
+ 'counselling-and-integration' 'cyber-intelligence' 'brand-protection'
+ 'deep-web']"
+Noname Security,                              2/2020,B2B,51-200,ROUND B,                 $85M,R&D,B,85M,2,6,B Round,$60M,"['dlp' 'enterprise-security' 'api' 'prevention' 'cyber-security'
+ 'vulnerability-management' 'network-security']"
+SIGA,                              9/2014,B2B,11-50,ROUND B,                 $11.6M,Released,B,11.6M,3,7,B Round,$8.1M,"['artificial-intelligence' 'scada' 'quarantine' 'anomaly-detection'
+ 'ot-cyber' 'incident-response' 'ot' 'forensics' 'control-systems'
+ 'cyber-security' 'machine-learning' 'industry-4.0' 'alert-system']"
+TrackerDetect,                              12/2020,B2B,1-10,Seed,,Released,Seed,0,1,4,Undisclosed Round,,['cyber-security' 'application-security' 'patent-pending']
+StarkWare Industries,                              11/2017,B2B,11-50,ROUND B,                 $111M,Released,B,111M,3,27,B Round,$75M,"['blockchain' 'cyber-security' 'data-protection' 'hardware'
+ 'privacy-protection' 'cryptography' 'cryptocurrency' 'scalability']"
+Xpandion,                              10/2007,B2B,11-50,Revenue Financed,,Released,,,,,,,"['grc' 'access-control' 'authorization' 'erp' 'behavior-analytics' 'bpm'
+ 'security' 'sap' 'hr' 'hr' 'cyber-security' 'business-processes' 'cloud']"
+Cybellum,                              1/2016,B2B,11-50,ROUND A,                 $14.5M,Released,A,14.5M,2,3,A Round,$12M,"['threat-intelligence' 'industry-4.0' 'artificial-intelligence'
+ 'cyber-security' 'supply-chain' 'iot-security'
+ 'application-security-testing' 'risk-assesments' 'digital-twin'
+ 'smart-mobility' 'application-security' 'vulnerability-management'
+ 'machine-learning']"
+Raz-Lee Security,                              10/1983,B2B,11-50,Established,,Released,,,,,,,"['ransomware' 'it' 'threat-detection' 'application-security'
+ 'cyber-security' 'monitoring' 'business-intelligence' 'insider-threat'
+ 'firewall' 'compliance' 'encryption' 'gdpr' 'multi-factor-authentication'
+ 'auditing']"
+BGProtect,                              3/2014,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['network-security' 'data-protection' 'enterprise-solutions' 'saas'
+ 'ip-networking' 'cyber-security' 'website-security']"
+SigmaDots,                              12/2017,B2B,1-10,Bootstrapped,,Alpha,,,,,,,"['big-data' 'home-iot' 'blockchain' 'iot' 'home-security' 'smart-home'
+ 'artificial-intelligence' 'm2m' 'cyber-security']"
+RestCase,                              1/2017,"B2B, B2C",1-10,Bootstrapped,,Beta,,,,,,,"['mobile-applications' 'enterprise-solutions' 'api' 'cloud'
+ 'software-development' 'cloud-based' 'artificial-intelligence' 'iot'
+ 'machine-learning' 'productivity' 'web-application' 'web-platform'
+ 'cyber-security' 'saas']"
+OcuCloud,                              5/2016,B2B,1-10,Bootstrapped,,Released,,,,,,,"['insider-threat' 'remote-monitoring' 'network-security'
+ 'enterprise-security' 'data-protection' 'saas' 'aws' 'cloud-security'
+ 'cyber-security' 'mobile-security' 'salesforce']"
+BLER,                              7/2014,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['cyber-security' 'threat-detection' 'seaports' 'osint' 'real-time'
+ 'social-media' 'behavior-analytics' 'business-intelligence'
+ 'artificial-intelligence' 'data-mining' 'big-data' 'enterprise-solutions'
+ 'natural-language-processing' 'webint']"
+Boardish,                              4/2019,B2B,1-10,Bootstrapped,,Released,,,,,,,"['fintech' 'saas' 'decision-making' 'risk-management' 'grc'
+ 'software-applications' 'cyber-security' 'financial-reports'
+ 'business-processes']"
+BitMint,                              2/2011,"B2B, B2C, B2G, B2B2C",1-10,Seed,,Customer development,,,,,,,"['fintech' 'cryptocurrency' 'network-security' 'artificial-intelligence'
+ 'cyber-security' 'iot' 'connected-devices' 'cryptography'
+ 'data-protection' 'quantum-computing' 'coronavirus'
+ 'identity-verification' 'payments' 'privacy-protection' 'web-platform'
+ 'digital-wallet']"
+VikiSense,                              5/2012,"B2B, B2G",1-10,Seed,,Released,Seed,0,2,1,Grant,,"['border-security' 'access-control' 'iam' 'biometrics'
+ 'speech-recognition' 'smart-city' 'multi-factor-authentication'
+ 'video-analytics' 'cyber-security' 'face-recognition' 'authentication'
+ 'voice-recognition' 'airports' 'patent-pending' 'identity-verification']"
+Aqua Security,                              9/2015,B2B,201-500,ROUND C+,                 $265M,Released,C+,265M,6,12,E Round,$135M,"['docker' 'auditing' 'cloud-security' 'app-development' 'compliance'
+ 'serverless' 'unicorn' 'micro-segmentation' 'kubernetes' 'monitoring'
+ 'containers' 'isolation' 'virtualization' 'cyber-security'
+ 'secure-coding' 'cloud']"
+Perception Point,                              7/2015,"B2B, B2G",11-50,ROUND B,                 $41.34M,Released,B,41.34M,5,7,B Round,$28M,"['threat-intelligence' 'enterprise-security' 'phishing' 'network-security'
+ 'cyber-security' 'malware' 'email' 'messaging-security'
+ 'security-gateway' 'zero-day' 'incident-response' 'apt' 'cloud-security']"
+XM Cyber,                              5/2015,B2B,51-200,ROUND B,                 $49M,Released,B,49M,3,5,B Round,$17M,"['apt' 'cyber-security' 'vulnerability-assessment' 'threat-intelligence'
+ 'network-security' 'penetration-tests' 'breach-simulation' 'simulation'
+ 'enterprise-security' 'security-operations' 'automation']"
+Webhose,                              12/2014,"B2B, B2C",11-50,Bootstrapped,,Released,,,,,,,"['api' 'cyber-security' 'big-data-analytics' 'business-intelligence'
+ 'big-data' 'market-research' 'web-platform' 'marketing' 'fintech'
+ 'data-gathering' 'trading-and-investing' 'web-crawling']"
+QuantLR,                              6/2017,"B2B, B2G",1-10,Seed,                 $2.51M,Beta,Seed,2.51M,3,3,Undisclosed Round,,"['5g-networks' 'cyber-security' 'communications' 'cryptography'
+ 'encryption' 'quantum-computing' 'optronics' 'data-protection'
+ 'network-security']"
+Authomize,                              9/2019,B2B,11-50,ROUND A,                 $22M,Released,A,22M,2,4,A Round,$16M,"['artificial-intelligence' 'compliance' 'enterprise-solutions'
+ 'cyber-security' 'saas' 'cloud' 'it-security' 'it-solutions']"
+Cider Security,                              10/2020,B2B,11-50,Seed,,R&D,Seed,0,1,1,Seed,,['it' 'cyber-security']
+Skybox Security,                              3/2002,"B2B, B2G",201-500,ROUND C+,                 $273.3M,Released,C+,273.3M,7,12,Undisclosed Round,$150M,"['enterprise-security' 'cyber-security' 'threat-intelligence' 'firewall'
+ 'compliance' 'network-optimization' 'network-visibility' 'sdn'
+ 'vulnerability-management' 'orchestration' 'vulnerability-assessment'
+ 'gdpr' 'network-security']"
+Transmit Security,                              7/2014,"B2B, B2B2C",201-500,ROUND A,                 $543M,Released,A,543M,1,9,A Round,$543M,"['unicorn' 'user-experience' 'authentication' 'biometrics'
+ 'cyber-security' 'multi-factor-authentication' 'security'
+ 'cross-platform' 'iam' 'orchestration' 'identity-verification' 'retail'
+ 'anti-fraud']"
+Simplex,                              4/2014,B2B,51-200,ROUND A,                 $8.4M,Released,A,8.4M,3,6,A Round,$7M,"['web-platform' 'authentication' 'bitcoin' 'cyber-security'
+ 'artificial-intelligence' 'transactions' 'machine-learning' 'fintech'
+ 'software-applications' 'credit-cards' 'cryptocurrency' 'payments'
+ 'currency-exchange' 'digital-wallet' 'blockchain' 'mobile-payments'
+ 'anti-fraud']"
+CyCognito,                              1/2017,B2B,51-200,ROUND B,                 $53M,Released,B,53M,3,7,B Round,$30M,"['penetration-tests' 'enterprise-solutions' 'vulnerability-assessment'
+ 'breach-simulation' 'security-operations' 'risk-management'
+ 'threat-intelligence' 'risk-assesments' 'bots' 'saas' 'cyber-security']"
+SecuredTouch,                              8/2014,"B2B, B2B2C",11-50,ROUND A,                 $11.53M,Released,A,11.53M,3,6,A Round,$8M,"['fintech' 'behavioral-biometrics' 'authentication' 'machine-learning'
+ 'access-control' 'identity-verification' 'payments' 'cyber-security'
+ 'anomaly-detection' 'multi-factor-authentication' 'bots' 'iam'
+ 'transactions' 'biometrics' 'behavior-analytics' 'bot-detection'
+ 'gesture-recognition' 'ecommerce' 'mobile-security'
+ 'artificial-intelligence' 'anti-fraud']"
+Beyond Security,                              10/1999,"B2B, B2G",51-200,Revenue Financed,,Released,,,,,,,"['vulnerability-management' 'application-security-testing'
+ 'website-security' 'penetration-tests' 'it-management' 'network-security'
+ 'cyber-security' 'vulnerability-assessment' 'counselling-and-integration']"
+C2A Security,                              5/2016,B2B,11-50,ROUND A,                 $7.7M,Released,A,7.7M,3,3,A Round,$6.5M,"['cyber-security' 'connected-vehicles' 'machine-learning' 'access-control'
+ 'artificial-intelligence' 'smart-mobility']"
+CyberTag,                              5/2018,,1-10,,,,,,,,,,['cyber-security']
+7Ci,                              1/2020,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['enterprise-solutions' 'cyber-security' 'incident-response']
+L7 Defense,                              7/2015,"B2B, B2G",11-50,ROUND A,                 $4.75M,Released,A,4.75M,2,3,A Round,$4M,"['enterprise-solutions' 'behavior-analytics' 'deep-learning'
+ 'network-security' 'website-security' 'cyber-security' 'ddos'
+ 'application-security' 'enterprise-security' 'api' 'security'
+ 'artificial-intelligence' 'machine-learning' 'homeland-security']"
+Strattic,                              1/2016,B2B,11-50,Seed,                 $6.5M,Released,Seed,6.5M,2,8,Seed,$6.5M,"['data-protection' 'web-application' 'serverless' 'web-development'
+ 'open-source' 'saas' 'performance' 'ddos' 'cloud' 'cyber-security'
+ 'website-security']"
+Tartico,                              11/2018,"B2B, B2G, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['penetration-tests' 'enterprise-solutions' 'network-security'
+ 'patent-pending' 'vulnerability-assessment' 'cloud-security'
+ 'enterprise-security' 'iot-security' 'connected-devices' 'cyber-security']"
+nSure.ai,                              2/2019,B2B,11-50,Seed,                 $7.35M,R&D,Seed,7.35M,2,4,Seed,$6.8M,"['payments' 'transactions' 'online-shopping' 'gift-cards'
+ 'risk-management' 'artificial-intelligence' 'cyber-security' 'ecommerce'
+ 'anti-fraud' 'fintech' 'insurtech']"
+Vulcan Cyber,                              2/2018,B2B,51-200,ROUND B,                 $35M,Released,B,35M,3,6,B Round,$21M,"['application-security' 'cyber-security' 'risk-management'
+ 'security-operations' 'vulnerability-management' 'patch-management'
+ 'enterprise-security' 'orchestration']"
+Kaymera,                              11/2013,"B2B, B2G",11-50,ROUND A,                 $10M,Released,A,10M,1,3,A Round,$10M,"['mobile-applications' 'encryption' 'data-protection' 'byod'
+ 'enterprise-security' 'mdm' 'mobile-security' 'malware' 'cyber-security']"
+ELTA Systems,                              8/1967,"B2B, B2G",500+,Established,,Released,,,,,,,"['radar' 'anti-drones' 'artificial-intelligence' 'security' 'sigint'
+ 'surveillance' 'cyber-security' 'satcom' 'sensors' 'cyber-warfare'
+ 'intelligence' 'homeland-security' 'telecommunication' 'space-tech']"
+Cynamics,                              9/2018,"B2B, B2G",11-50,Seed,                 $7M,Beta,Seed,7M,1,2,Seed,$7M,"['cyber-security' 'deep-learning' 'homeland-security' 'network-visibility'
+ 'threat-detection' 'public-safety' 'emergency-response' 'smart-city'
+ 'critical-infastructure']"
+NICE,                              9/1986,"B2B, B2G",500+,Public,,Released,,,,,,,"['customer-experience' 'software-applications' 'video-analytics'
+ 'machine-learning' 'robotic-process-automation' 'surveillance'
+ 'quarantine' 'big-data' 'artificial-intelligence' 'anti-fraud' 'fintech'
+ 'video-recording' 'cyber-security' 'intelligence']"
+SCADASudo,                              5/2015,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['siem' 'cyber-security' 'security-operations' 'industry-4.0' 'forensics'
+ 'anomaly-detection' 'scada' 'industrial-technologies' 'ot'
+ 'control-systems' 'monitoring' 'counselling-and-integration'
+ 'critical-infastructure']"
+MindoLife IoT,                              7/2014,"B2B, B2C, B2B2C",11-50,Revenue Financed,                 $1.25M,Released,Revenue Financed,1.25M,3,0,Grant,$250K,"['sensors' 'artificial-intelligence' 'iot' 'power-management'
+ 'home-appliances' 'energy-saving' 'cyber-security' 'water-heating'
+ 'connectivity' 'iot-security' 'iot-platform' 'energy-efficiency'
+ 'connected-devices' 'automation' 'green-energy' 'smart-home']"
+Adaptive Shield,                              8/2019,B2B,1-10,ROUND A,                 $34M,Released,A,34M,2,3,A Round,$30M,['saas' 'enterprise-solutions' 'cloud-security' 'cyber-security']
+Mobile Crypto,                              11/2008,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['network-security' 'network-management' 'data-protection'
+ 'wireless-communication' 'mobile-devices' 'encryption' 'mobile-networks'
+ 'telecommunication' 'cyber-security' 'it-management' 'mobile-security'
+ 'enterprise-solutions']"
+odix,                              1/2012,"B2B, B2G",11-50,ROUND A,                 $4.29M,Released,A,4.29M,2,2,A Round,$2.1M,"['endpoint-security' 'insider-threat' 'messaging-security' 'cdr' 'email'
+ 'file-security' 'ransomware' 'website-security' 'network-security'
+ 'cyber-security' 'malware' 'data-protection' 'security-gateway'
+ 'zero-day']"
+Panorays,                              5/2016,B2B,51-200,ROUND B,                 $62M,Released,B,62M,3,10,B Round,$42M,"['saas' 'big-data' 'risk-management' 'cyber-security' 'compliance'
+ 'auditing' 'gdpr' 'grc' 'quarantine' 'supply-chain' 'cyber-insurance'
+ 'enterprise-security' 'vulnerability-assessment']"
+Deep Instinct,                              1/2015,"B2B, B2G",201-500,ROUND C+,                 $276.2M,Released,C+,276.2M,5,17,D Round,$67M,"['ips' 'zero-day' 'cyber-security' 'artificial-intelligence'
+ 'endpoint-security' 'mobile-devices' 'edr' 'threat-intelligence'
+ 'deep-learning' 'apt' 'network-security' 'machine-learning'
+ 'mobile-security' 'byod']"
+ShieldIOT,                              4/2017,B2B,11-50,Seed,                 $3.6M,Beta,Seed,3.6M,2,4,Seed,$2.6M,"['smart-manufacturing' 'industry-4.0' 'smart-mobility' 'transportation'
+ 'network-security' 'iot-security' 'smart-buildings' 'machine-learning'
+ 'anomaly-detection' 'iot' 'privacy-protection' 'smart-city' 'encryption'
+ 'security-gateway' 'retail' 'medical-devices' 'artificial-intelligence'
+ 'cyber-security']"
+FRANCISCO VENTURES,                              3/2019,"B2B, B2C, B2G",1-10,Bootstrapped,,Beta,,,,,,,"['homeland-security' 'iot' 'encryption' 'compliance' 'threat-intelligence'
+ 'enterprise-security' 'authentication' 'machine-learning'
+ 'enterprise-solutions' 'data-protection' 'artificial-intelligence'
+ 'security' 'mobile-security' 'network-security' 'cyber-security']"
+TrapX Security,                              10/2011,"B2B, B2G",51-200,ROUND B,                 $19M,Released,B,19M,2,5,B Round,$14M,"['cyber-security' 'network-security' 'enterprise-security'
+ 'cloud-security' 'iot' 'ransomware' 'data-protection'
+ 'threat-intelligence' 'zero-day' 'industry-4.0' 'virtualization'
+ 'deception']"
+Ananda Networks,                              10/2018,B2B,11-50,Seed,                 $6M,Released,Seed,6M,1,9,Seed,$6M,"['machine-learning' 'distributed-systems' 'cloud' 'cyber-security'
+ 'software-platform' 'vpn' 'network-security' 'artificial-intelligence']"
+Radware,                              1/1997,"B2B, B2G",500+,Public,,Released,,,,,,,"['web-application-firewall' 'application-security' 'cloud'
+ 'network-security' 'ddos' 'website-security' 'security' 'virtualization'
+ 'web-traffic' 'enterprise-solutions' 'cloud-security'
+ 'telecommunication-equipment' 'telecommunication' 'cyber-security']"
+SAFEMIND Cybersecurity,                              6/2021,"B2B, B2C",1-10,Bootstrapped,,R&D,,,,,,,['cyber-security']
+ERM Advanced Telematics,                              1/1985,B2B,51-200,Established,,Released,,,,,,,"['electric-vehicles' 'vehicle-technology' 'iot' 'behavior-analytics'
+ 'safety' 'asset-tracking' 'smart-mobility' 'cyber-security' 'sensors'
+ 'tracking' 'connected-vehicles' 'fleet-management' 'monitoring'
+ 'telematics']"
+CYBONET,                              5/2002,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['spam-protection' 'gdpr' 'data-protection' 'firewall' 'security-gateway'
+ 'cyber-security' 'insider-threat' 'siem' 'dpi' 'encryption' 'monitoring'
+ 'vulnerability-management' 'spear-phishing' 'email' 'enterprise-security'
+ 'bot-detection' 'threat-detection' 'cloud' 'messaging-security'
+ 'network-security']"
+Kindite,                              2/2017,"B2B, B2G",11-50,Seed,                 $4M,Released,Seed,4M,1,3,Seed,$4M,"['enterprise-security' 'security' 'data-protection' 'cyber-security'
+ 'compliance' 'privacy-protection' 'cryptography' 'cloud-security' 'gdpr'
+ 'homomorphic-encryption' 'encryption']"
+Digital Confidence,                              1/2009,"B2B, B2C",1-10,Revenue Financed,,Released,,,,,,,"['dlp' 'messaging-security' 'file-security' 'data-protection'
+ 'cyber-security']"
+Curv,                              1/2018,B2B,11-50,ROUND A,                 $36.5M,Released,A,36.5M,3,11,A Round,$7M,"['investments' 'cryptocurrency' 'cryptography' 'trading-and-investing'
+ 'fintech' 'cyber-security' 'data-protection']"
+Opora Technologies,                              3/2012,B2B,11-50,Seed,                 $7M,Released,Seed,7M,1,1,Seed,$7M,"['threat-intelligence' 'big-data-analytics' 'smart-city'
+ 'enterprise-security' 'cyber-security' 'behavior-analytics'
+ 'threat-detection']"
+Fireblocks,                              6/2018,B2B,51-200,ROUND C+,                 $489M,Released,C+,489M,5,20,D Round,$310M,"['cryptocurrency' 'otc' 'digital-assets' 'international-money-transfer'
+ 'fintech' 'unicorn' 'cyber-security' 'currency-exchange' 'tokens'
+ 'digital-wallet' 'blockchain' 'enterprise-solutions']"
+Spectral Cyber Technologies,                              4/2020,B2B,11-50,ROUND A,                 $6.2M,Released,A,6.2M,1,2,A Round,$6.2M,['web-platform' 'cyber-security' 'enterprise-solutions' 'data-breach']
+CyTwist,                              11/2014,B2B,1-10,Bootstrapped,,Beta,,,,,,,['enterprise-solutions' 'artificial-intelligence' 'cyber-security']
+SafeRide Technologies,                              1/2016,B2B,11-50,ROUND A,,Released,,,,,,,"['connected-vehicles' 'logistics' 'threat-detection' 'data-analytics'
+ 'software-applications' 'fleet-management' 'penetration-tests'
+ 'transportation' 'deep-learning' 'oem' 'autonomous-vehicles'
+ 'artificial-intelligence' 'diagnostics' 'driver-safety'
+ 'machine-learning' 'iot' 'cyber-security' 'zero-day' 'smart-mobility']"
+Celestya,                              5/2014,B2B,1-10,Revenue Financed,,Released,,,,,,,"['spear-phishing' 'social-engineering' 'cross-platform'
+ 'penetration-tests' 'training' 'behavior-analytics' 'enterprise-security'
+ 'counselling-and-integration' 'employee-training' 'cyber-security']"
+Protected Media,                              7/2014,B2B,11-50,Seed,                 $4M,Released,Seed,4M,1,3,Seed,$4M,"['anti-fraud' 'cyber-security' 'website-security' 'advertising'
+ 'campaign-management' 'bot-detection' 'adtech']"
+empow,                              7/2014,B2B,11-50,ROUND B,                 $21M,Released,B,21M,3,1,B Round,$10M,"['siem' 'network-security' 'machine-learning' 'insider-threat'
+ 'incident-response' 'cyber-security' 'enterprise-security' 'it'
+ 'spear-phishing' 'ransomware' 'dlp' 'leak-detection'
+ 'vulnerability-management' 'it-management' 'malware'
+ 'artificial-intelligence' 'orchestration' 'natural-language-processing']"
+Purpose Security,                              5/2019,B2B,1-10,Bootstrapped,,Customer development,,,,,,,"['data-protection' 'saas' 'legaltech' 'cyber-security'
+ 'privacy-protection' 'compliance' 'gdpr']"
+Pentera,                              11/2015,B2B,51-200,ROUND B,                 $39.25M,Released,B,39.25M,3,4,B Round,$25M,"['breach-simulation' 'automation' 'penetration-tests' 'network-security'
+ 'vulnerability-assessment' 'cyber-security' 'threat-detection'
+ 'compliance' 'enterprise-security' 'enterprise-solutions']"
+Snyk,                              7/2015,B2B,500+,ROUND C+,                 $1.127B,Released,C+,1.127B,9,23,F Round,$300M,"['vulnerability-management' 'app-development' 'unicorn'
+ 'vulnerability-assessment' 'containers' 'cyber-security'
+ 'enterprise-security' 'open-source' 'application-security' 'code'
+ 'secure-coding' 'application-security-testing' 'kubernetes'
+ 'cloud-security' 'database-security']"
+Tufin,                              1/2005,"B2B, B2G",500+,Public,                 $23.75M,Released,Public,23.75M,3,3,D Round,$8M,"['it' 'cloud-security' 'risk-management' 'network-security'
+ 'web-application-firewall' 'risk-assesments' 'orchestration'
+ 'cyber-security' 'enterprise-security' 'it-management' 'compliance' 'iot']"
+PAI-TECH,                              6/2018,B2B,1-10,Bootstrapped,,Customer development,,,,,,,"['deep-neural-networks' 'machine-learning' 'blockchain'
+ 'artificial-intelligence' 'operating-systems' 'automation' 'bots'
+ 'distribution' 'real-time' 'web-development' 'enterprise-solutions'
+ 'cyber-security' 'distributed-systems']"
+Quality Bytes,                              12/2000,B2B,11-50,Revenue Financed,,Released,,,,,,,"['security-gateway' 'saas' 'it' 'telecommunication' 'network-security'
+ 'hardware' 'cyber-security' 'firewall' 'telephony'
+ 'enterprise-networking' 'voip']"
+monogoto,                              7/2017,B2B,11-50,Seed,                 $11M,Released,Seed,11M,1,6,Seed,$11M,"['cyber-security' 'telecommunication' 'customer-engagement'
+ 'mobile-networks' 'iot' 'sim-card' 'network-management' 'lte'
+ '5g-networks' 'web-platform' 'enterprise-solutions' 'smart-city'
+ 'iot-security' 'wireless-communication']"
+JpU,                              1/2016,"B2B, B2G, B2B2C",11-50,Seed,,Released,,,,,,,"['private-cloud' 'cloud' '5g-networks' 'mobile-networks' 'web-traffic'
+ 'network-security' 'smart-city' 'iot' 'cloud-services' 'm2m'
+ 'network-management' 'mobile-devices' 'cyber-security'
+ 'enterprise-solutions' 'smart-mobility']"
+BUFFERZONE,                              4/2003,B2B,11-50,ROUND B,                 $500K,Released,B,500K,1,1,Seed,$500K,"['cyber-security' 'endpoint-security' 'network-security'
+ 'application-security' 'spear-phishing' 'ransomware' 'isolation' 'apt'
+ 'cdr' 'enterprise-security' 'zero-day' 'malware']"
+Cognyte,                              5/2020,"B2B, B2G",500+,Public,,Released,,,,,,,"['data-visualization' 'enterprise-security' 'enterprise-solutions'
+ 'artificial-intelligence' 'threat-detection' 'threat-intelligence'
+ 'intelligence' 'data-analytics' 'machine-learning' 'cyber-security']"
+Hudson Rock,                              6/2019,B2B,1-10,Bootstrapped,,Released,,,,,,,"['social-media' 'cyber-intelligence' 'data-protection' 'cyber-security'
+ 'network-security' 'threat-detection' 'enterprise-solutions' 'ransomware'
+ 'monitoring']"
+Safe-T,                              1/2013,"B2B, B2G",11-50,Public,                 $5M,Released,Public,5M,1,1,Seed,$5M,"['software-defined-perimeter' 'compliance' 'file-security'
+ 'mobile-applications' 'enterprise-security' 'perimeter-security'
+ 'data-protection' 'access-control' 'casb' 'authentication'
+ 'cloud-security' 'isolation' 'byod' 'cyber-security']"
+Symania,                              1/2018,"B2B, B2G",1-10,Bootstrapped,,R&D,,,,,,,"['cyber-security' 'enterprise-solutions' 'multi-factor-authentication'
+ 'authentication' 'identity-verification']"
+Ottopia,                              9/2018,B2B,11-50,ROUND A,                 $12M,Customer development,A,12M,2,7,A Round,$9M,"['cyber-security' 'safety' 'driver-safety' 'smart-mobility' 'quarantine'
+ 'autonomous-vehicles' 'remote-monitoring' 'smart-city']"
+Toka,                              4/2018,B2G,11-50,ROUND B,                 $37.5M,Beta,B,37.5M,2,6,B Round,$25M,"['cyber-intelligence' 'cyber-security' 'cyber-warfare' 'cloud-security'
+ 'saas' 'iot']"
+Sayata Labs,                              5/2016,B2B,11-50,ROUND A,                 $23.5M,Released,A,23.5M,2,5,A Round,$17M,"['risk-assesments' 'fintech' 'insurtech' 'artificial-intelligence'
+ 'natural-language-processing' 'machine-learning' 'risk-management'
+ 'cyber-security' 'underwriting' 'cyber-insurance' 'software-applications']"
+ForeScout,                              6/2000,"B2B, B2G",500+,ROUND C+,                 $132.4M,Released,C+,132.4M,5,8,G Round,$76M,"['network-security' 'network-visibility' 'access-control' 'byod'
+ 'mobile-security' 'network-management' 'orchestration'
+ 'incident-response' 'mdm' 'compliance' 'iot' 'enterprise-security'
+ 'asset-management' 'cyber-security' 'threat-intelligence']"
+Psyber Solutions,                              4/2021,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['cyber-security' 'behavior-analytics' 'data-protection']
+FirstPoint Mobile Guard,                              1/2016,"B2B, B2G",11-50,Seed,                 $2.5M,Released,Seed,2.5M,1,3,Seed,$2.5M,"['cyber-security' 'mobile-security' 'byod' 'data-protection'
+ 'homeland-security' 'privacy-protection' 'enterprise-security'
+ 'mobile-devices' 'mobile-networks' 'telecommunication' 'iot' 'security'
+ 'smart-mobility']"
+Cydome Security,                              1/2016,"B2B, B2G",11-50,Seed,                 $2.2M,Released,Seed,2.2M,3,2,Seed,$2.2M,"['threat-detection' 'secure-coding' 'transportation' 'network-security'
+ 'cyber-security' 'iot' 'smart-mobility' 'enterprise-solutions'
+ 'iot-security' 'data-protection']"
+LYNX.io,                              2/2018,"B2B, B2C, B2G",1-10,Bootstrapped,,R&D,,,,,,,"['digital-signature' 'information-service' 'iot' 'anti-fraud'
+ 'data-protection' 'cyber-security' 'data-integrity' 'remote' 'encryption'
+ 'cryptography' 'enterprise-security']"
+Bridgecrew,                              3/2019,B2B,11-50,ROUND A,                 $18M,Beta,A,18M,2,7,A Round,$14M,"['cloud-infrastructure' 'cyber-security' 'cloud-security'
+ 'enterprise-solutions']"
+MediGate,                              9/2017,"B2B, B2G",51-200,ROUND B,                 $50.35M,Released,B,50.35M,3,5,B Round,$30M,"['data-protection' 'cyber-security' 'medical-devices' 'threat-detection'
+ 'digital-healthcare' 'connected-devices' 'iot' 'clinical-workflow'
+ 'risk-assesments']"
+Deceptive Bytes,                              5/2016,"B2B, B2G",1-10,Seed,                 $18K,Released,Seed,18K,1,1,Seed,$18K,"['endpoint-security' 'behavior-analytics' 'ransomware' 'cyber-security'
+ 'malware' 'security' 'deception']"
+Cyren,                              2/1991,B2B,201-500,Public,                 $41.53M,Released,Public,41.53M,4,3,Undisclosed Round,$19.6M,"['cyber-intelligence' 'spear-phishing' 'messaging-security' 'malware'
+ 'email' 'threat-intelligence' 'web-application-firewall'
+ 'website-security' 'security-gateway' 'anomaly-detection'
+ 'big-data-analytics' 'behavior-analytics' 'data-protection'
+ 'enterprise-security' 'cloud-based' 'saas' 'cyber-security']"
+1touch.io,                              3/2017,B2B,11-50,ROUND A,                 $14M,Released,A,14M,1,5,A Round,$14M,"['privacy-protection' 'enterprise-solutions' 'artificial-intelligence'
+ 'machine-learning' 'data-governance' 'natural-language-processing' 'gdpr'
+ 'compliance' 'cyber-security' 'data-protection' 'data-management'
+ 'authentication']"
+Immue,                              12/2020,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['bots' 'machine-learning' 'artificial-intelligence' 'cyber-security'
+ 'data-protection']"
+ArcusTeam,                              3/2018,B2B,11-50,Seed,                 $6.57M,Beta,Seed,6.57M,5,4,Seed,$20K,"['artificial-intelligence' 'oem' 'vulnerability-assessment'
+ 'smart-mobility' 'cyber-security' 'data-protection'
+ 'software-development' 'patent-pending' 'connected-devices'
+ 'iot-security' 'linux' 'application-security-testing' 'threat-detection'
+ 'app-development' 'iot']"
+EasySec Solutions,                              8/2017,B2B,11-50,Seed,,Released,,,,,,,"['open-source' 'network-security' 'connected-devices' 'cyber-security'
+ 'data-protection' 'iot' 'smart-city' 'smart-home' 'vpn'
+ 'enterprise-security' 'access-control' 'encryption']"
+Source Defense,                              7/2014,B2B,11-50,ROUND A,                 $21.6M,Released,A,21.6M,3,7,A Round,$10.5M,"['cyber-security' 'isolation' 'machine-learning' 'virtualization' 'ips'
+ 'monitoring' 'ecommerce' 'malware' 'client-side-security'
+ 'threat-detection' 'secure-coding' 'website-security' 'saas'
+ 'artificial-intelligence']"
+Cynergy,                              7/2019,B2B,1-10,Bootstrapped,,Beta,,,,,,,"['cloud-security' 'enterprise-solutions' 'machine-learning' 'supply-chain'
+ 'artificial-intelligence' 'cyber-security']"
+Commugen,                              10/1999,"B2B, B2G",11-50,Revenue Financed,,Released,Revenue Financed,0,1,1,Undisclosed Round,,"['supply-chain' 'regulation' 'fintech' 'management-solutions'
+ 'business-dashboard' 'saas' 'gdpr' 'cyber-security' 'business-processes'
+ 'bpm' 'business-management' 'security-operations' 'risk-management'
+ 'enterprise-solutions' 'cloud' 'back-office' 'compliance' 'grc'
+ 'cyber-legal-and-regulatory' 'web-platform']"
+apiiro,                              5/2019,B2B,11-50,ROUND A,                 $35M,Released,A,35M,1,8,A Round,$35M,"['web-development' 'enterprise-solutions' 'compliance' 'cyber-security'
+ 'patent-pending' 'cloud-security' 'software-applications' 'ci-cd'
+ 'risk-management' 'application-security']"
+Mobilicom,                              11/2006,"B2B, B2G",11-50,Public,                 $14.93M,Released,Public,14.93M,3,3,Post-IPO Equity Funding,$10M,"['disaster-recovery' 'encryption' 'unmanned-ground-vehicle'
+ 'transportation' 'mobile-devices' 'public-transportation' 'robotics'
+ 'wireless-communication' 'lte' 'cyber-security'
+ 'emergency-medical-services' '4g-networks' 'iot' 'drones' 'smart-city'
+ 'enterprise-solutions' 'smart-grid' 'smart-mobility' 'telecommunication'
+ 'unmanned-aerial-vehicle' 'broadband' 'homeland-security'
+ 'mobile-networks']"
+RevenueStream,                              1/2012,B2B,1-10,Seed,                 $500K,Released,Seed,500K,1,2,Seed,$500K,"['testing' 'transactions' 'artificial-intelligence' 'credit-cards'
+ 'data-mining' 'ecommerce' 'payments' 'big-data-analytics'
+ 'cyber-security' 'iam' 'fintech' 'saas' 'anti-fraud']"
+BitDam,                              12/2015,B2B,11-50,Seed,                 $3M,Released,Seed,3M,1,2,Seed,$3M,"['code' 'application-security' 'spear-phishing' 'cyber-security' 'malware'
+ 'zero-day' 'enterprise-security' 'network-security' 'data-protection'
+ 'apt' 'enterprise-solutions' 'messaging-security' 'threat-detection']"
+Surance.io,                              3/2017,B2B2C,1-10,Bootstrapped,,R&D,,,,,,,"['threat-intelligence' 'home-iot' 'vulnerability-management'
+ 'cyber-insurance' 'fintech' 'cyber-security' 'insurtech'
+ 'big-data-analytics' 'artificial-intelligence' 'home-security'
+ 'underwriting' 'security-posture-assessment' 'risk-management']"
+SAM Seamless Network,                              1/2016,"B2B, B2B2C",51-200,ROUND B,                 $36M,Released,B,36M,3,7,B Round,$20M,"['network-security' 'gdpr' 'data-protection' 'wifi' 'soc' 'iot-security'
+ 'home-security' 'iot' 'cloud-security' 'remote' 'connected-devices'
+ 'connectivity' 'telecommunication' 'smart-home' 'home-connected-devices'
+ 'parental-control' 'endpoint-security' 'bot-detection' 'cyber-security'
+ 'artificial-intelligence' 'security' 'security-gateway'
+ 'homeland-security' 'home-iot' 'encryption' 'ddos' 'network-management']"
+ComSignTrust,             2009,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['anti-fraud' 'compliance' 'cyber-security' 'digital-signature'
+ 'authentication' 'mobile-applications' 'file-security' 'data-protection']"
+Minerva Labs,                              10/2014,B2B,11-50,ROUND A,                 $7.75M,Released,A,7.75M,3,3,A Round,$7.5M,"['deception' 'point-of-sale' 'ips' 'apt' 'cyber-security'
+ 'enterprise-security' 'ransomware' 'mobile-security'
+ 'enterprise-solutions' 'endpoint-security' 'prevention' 'malware']"
+GamaSec,                              11/2005,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['cyber-security' 'saas' 'malware' 'web-application-firewall' 'cloud'
+ 'website-security' 'vulnerability-assessment']"
+ThetaRay,                              6/2013,B2B,51-200,ROUND C+,                 $91.5M,Released,C+,91.5M,6,11,C Round,$31M,"['big-data-analytics' 'anomaly-detection' 'industry-4.0' 'deep-learning'
+ 'insider-threat' 'iot' 'anti-money-laundering' 'transactions'
+ 'cyber-security' 'anti-fraud' 'aml' 'predictive-analytics' 'scada'
+ 'artificial-intelligence' 'risk-management' 'fintech' 'grc' 'compliance']"
+Secunity.io,                              1/2021,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['cyber-security' 'web-platform' 'enterprise-solutions' 'data-protection'
+ 'ddos']"
+CardLatch,                              3/2019,B2B,1-10,Bootstrapped,,R&D,,,,,,,['fintech' 'cyber-security' 'credit-cards' 'anti-fraud']
+Coronet,                              9/2014,B2B,51-200,ROUND B,,Released,,,,,,,"['compliance' 'dlp' 'saas' 'byod' 'vulnerability-management'
+ 'endpoint-security' 'network-security' 'casb' 'orchestration' 'security'
+ 'security-operations' 'enterprise-security' 'data-protection'
+ 'cloud-security' 'cyber-security']"
+BIS Guard,                              11/2002,B2B,1-10,Revenue Financed,,Released,,,,,,,"['app-development' 'java' 'cyber-security' 'software-development'
+ 'application-security']"
+Random Quantum,                              9/2017,"B2B, B2G",11-50,Bootstrapped,,Released,,,,,,,"['casino' 'cloud-based' 'cyber-security' 'cryptography'
+ 'quantum-computing']"
+Cybint,                              4/2014,"B2B, B2G, B2B2C",51-200,ROUND A,                 $5.037M,Released,A,5.037M,1,1,Undisclosed Round,$5.037M,"['competitive-intelligence' 'decision-making' 'higher-education'
+ 'enterprise-solutions' 'cyber-intelligence' 'cyber-security' 'quarantine'
+ 'cyber-legal-and-regulatory' 'market-research' 'knowledge-technology'
+ 'e-learning' 'edtech' 'k-12' 'cyber-threat-analysis']"
+torq,                              12/2019,B2B,11-50,ROUND A,                 $28M,Beta,A,28M,2,4,Seed,$8M,['security-operations' 'cyber-security' 'orchestration']
+Protex Cybersecurity,                              10/2020,B2B2C,1-10,Bootstrapped,,Customer development,,,,,,,['machine-learning' 'cyber-security' 'messaging-security' 'patent-pending']
+Cynet,                              1/2015,"B2B, B2G",201-500,ROUND C+,                 $78M,Released,C+,78M,4,9,C Round,$40M,"['behavior-analytics' 'ids' 'security-operations' 'anomaly-detection'
+ 'edr' 'incident-response' 'deception' 'siem' 'soc' 'cyber-security'
+ 'network-security' 'data-gathering' 'ransomware' 'threat-intelligence'
+ 'critical-infastructure' 'big-data-analytics' 'endpoint-security'
+ 'vulnerability-management' 'zero-day' 'apt']"
+SMUFS Biometric Solutions,                              10/2011,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['access-control' 'identity-verification' 'biometrics' 'cyber-security'
+ 'mobile-devices' 'mobile-security' 'byod' 'authentication' 'hardware'
+ 'iam']"
+Cognitive ID,                              8/2016,"B2B, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['cyber-security' 'uba' 'identity-verification' 'iam' 'mobile-security'
+ 'behavior-analytics' 'artificial-intelligence' 'biometrics'
+ 'deep-learning' 'machine-learning' 'ecommerce' 'authentication' 'fintech'
+ 'anomaly-detection' 'behavioral-biometrics']"
+Cipherra Development,                              5/2014,B2B,1-10,Bootstrapped,,Released,,,,,,,"['cloud-security' 'encryption' 'cyber-security' 'tokenization'
+ 'data-protection' 'compliance']"
+Rezilion,                              7/2018,B2B,11-50,ROUND A,                 $38M,Released,A,38M,2,5,A Round,$30M,"['iaas' 'cyber-security' 'enterprise-security' 'cloud-security'
+ 'vulnerability-management' 'network-security']"
+Unbound Tech,                              7/2013,B2B,51-200,ROUND B,                 $36.02M,Released,B,36.02M,5,5,B Round,$20M,"['cyber-security' 'enterprise-solutions' 'enterprise-security'
+ 'security-gateway' 'cloud-based' 'compliance' 'authentication' 'pki'
+ 'database-security' 'cloud-security' 'mobile-security' 'encryption'
+ 'data-protection' 'iam' 'network-security' 'iot' 'cryptography']"
+VirusBay,                              1/2018,B2B,1-10,Bootstrapped,                 $12.57K,Released,Bootstrapped,12.57K,1,1,Crowdfunding,$12.57K,"['threat-detection' 'natural-language-processing' 'privacy-protection'
+ 'incident-response' 'malware' 'forensics' 'apt' 'soc'
+ 'cyber-threat-analysis' 'collaboration' 'security-operations'
+ 'data-science' 'artificial-intelligence' 'threat-intelligence'
+ 'machine-learning' 'cyber-security']"
+Dcoya,                              8/2015,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['phishing' 'social-engineering' 'compliance' 'training'
+ 'critical-infastructure' 'enterprise-security' 'penetration-tests'
+ 'vulnerability-assessment' 'spear-phishing' 'cyber-security' 'ransomware'
+ 'endpoint-security' 'edtech']"
+GuardiCore,                              8/2013,B2B,201-500,ROUND C+,                 $106M,Released,C+,106M,4,10,C Round,$60M,"['apt' 'cloud-security' 'virtualization' 'threat-detection'
+ 'cyber-security' 'data-center-security' 'data-visualization'
+ 'network-security' 'enterprise-solutions' 'micro-segmentation'
+ 'compliance' 'sdn' 'deception' 'incident-response' 'enterprise-security'
+ 'threat-intelligence' 'dlp' 'data-protection']"
+Avanan,                              7/2014,B2B,51-200,ROUND B,                 $41.4M,Released,B,41.4M,3,4,B Round,$25M,"['apt' 'saas' 'ransomware' 'encryption' 'cyber-security' 'data-protection'
+ 'cloud-security' 'data-governance' 'enterprise-security' 'casb'
+ 'compliance' 'access-control' 'dlp' 'siem' 'spear-phishing' 'malware']"
+Intelici,                              1/2019,B2B,1-10,Seed,,R&D,Seed,0,1,2,Seed,,"['cyber-intelligence' 'malware' 'cloud-security' 'machine-learning'
+ 'mobile-and-telecom-technologies' 'communications' 'big-data-analytics'
+ 'cyber-security' 'network-security' 'iot' 'artificial-intelligence']"
+CyberInt,                              2/2010,B2B,51-200,ROUND B,                 $28M,Released,B,28M,2,5,B Round,$18M,"['cyber-intelligence' 'intelligence' 'anti-fraud'
+ 'counselling-and-integration' 'forensics' 'education' 'brand-protection'
+ 'incident-response' 'deep-web' 'training' 'apt' 'risk-management'
+ 'threat-intelligence' 'osint' 'siem' 'behavior-analytics'
+ 'network-security' 'cyber-security' 'zero-day' 'identity-verification']"
+AWARE,                              9/2020,B2C,1-10,Bootstrapped,,Customer development,,,,,,,"['personal-safety' 'artificial-intelligence' 'behavior-analytics'
+ 'cyber-security' 'risk-management' 'mobile-security']"
+Cyber-Dome,                              6/2012,B2C,1-10,Revenue Financed,,Released,,,,,,,"['ransomware' 'education' 'threat-intelligence' 'malware' 'training'
+ 'spear-phishing' 'ids' 'collaboration' 'cyber-security'
+ 'endpoint-security']"
+SafeHouse Technologies,                              4/2017,"B2B, B2G",1-10,Seed,                 $2.96M,Released,Seed,2.96M,2,2,Seed,$2.84M,"['malware' 'threat-detection' 'cyber-security' 'iot-security'
+ 'mobile-applications' 'cloud-security' 'mobile-security' 'iot']"
+Cigloo,                              10/2015,B2B,1-10,Bootstrapped,,Released,,,,,,,"['malware' 'network-security' 'virtualization' 'compliance'
+ 'website-security' 'endpoint-security' 'isolation' 'enterprise-security'
+ 'safe-browsing' 'ransomware' 'cyber-security']"
+Hola,                              3/2008,"B2B, B2C",201-500,ROUND C+,                 $34M,Released,C+,34M,3,7,C Round,$17M,"['telecommunication' 'firewall' 'saas' 'vpn' 'mobile-applications' 'cdn'
+ 'cyber-security' 'p2p' 'website-security' 'data-compression']"
+Senstar Technologies,                              1/1969,"B2B, B2G",51-200,Public,,Released,,,,,,,"['optronics' 'control-systems' 'homeland-security' 'network-security'
+ 'perimeter-security' 'video-management' 'scada' 'safety' 'cctv'
+ 'industry-4.0' 'critical-infastructure' 'cyber-security' 'airports' 'ids'
+ 'border-security' 'unmanned-aerial-vehicle' 'smart-city' 'sensors'
+ 'surveillance' 'incident-response']"
+Silverfort,                              3/2016,B2B,51-200,ROUND B,                 $44.27M,Released,B,44.27M,4,6,B Round,$30M,"['enterprise-security' 'access-control' 'cyber-security' 'cloud-security'
+ 'data-protection' 'multi-factor-authentication' 'behavior-analytics'
+ 'apt' 'cryptography' 'authentication' 'patent-pending' 'network-security'
+ 'iam' 'insider-threat']"
+Meydax,                              1/2013,B2B,1-10,Revenue Financed,,Released,,,,,,,"['data-protection' 'behavior-analytics' 'web-application-firewall'
+ 'ad-blocking' 'cyber-security' 'ddos' 'anti-fraud' 'cloud'
+ 'bot-detection' 'dlp' 'adtech' 'website-security' 'cloud-security' 'bots']"
+Build.security,                              1/2020,B2B,11-50,Seed,                 $6M,Released,Seed,6M,1,2,Seed,$6M,"['web-development' 'software-applications' 'enterprise-solutions'
+ 'cyber-security' 'application-security' 'authorization']"
+G-STAT,                              12/1998,"B2B, B2B2C",51-200,Established,,Released,,,,,,,"['business-intelligence' 'big-data-analytics' 'enterprise-solutions'
+ 'risk-management' 'cyber-security' 'data-mining' 'behavior-analytics'
+ 'predictive-analytics' 'credit-score' 'credit-assessment' 'cloud-based'
+ 'anti-fraud' 'software-applications' 'fintech' 'machine-learning'
+ 'artificial-intelligence' 'data-management' 'credit-cards' 'marketing'
+ 'anti-money-laundering']"
+Cybergames,                              11/2018,"B2B, B2C, B2G, B2B2C",1-10,Bootstrapped,,Alpha,,,,,,,"['edtech' 'games' 'software-development' 'community' 'cyber-intelligence'
+ 'cyber-security' 'simulation' 'entertainment']"
+ZenGo,                              6/2018,"B2B, B2C",11-50,ROUND A,                 $24M,Released,A,24M,2,12,A Round,$20M,"['mobile-applications' 'digital-wallet' 'cyber-security' 'blockchain'
+ 'payments' 'cryptography' 'fintech' 'cryptocurrency']"
+Cyrus,                              8/2020,B2C,11-50,Seed,,Released,,,,,,,['data-protection' 'cyber-security' 'credit' 'mobile-security']
+Cyberfish,                              1/2017,B2B,11-50,Seed,                 $40K,Released,Seed,40K,3,3,Seed,,"['anti-fraud' 'privacy-protection' 'cyber-security'
+ 'artificial-intelligence' 'malware' 'mobile-devices' 'phishing'
+ 'mobile-security' 'spear-phishing' 'email' 'computer-vision'
+ 'patent-pending' 'microsoft-365' 'saas']"
+nsKnox,                              4/2015,B2B,11-50,ROUND A,                 $15M,Released,A,15M,2,4,A Round,$15M,"['fintech' 'cyber-security' 'anti-fraud' 'transactions'
+ 'exfiltration-prevention' 'data-protection' 'finance' 'payments']"
+NeuraLegion,                              10/2017,"B2B, B2G",11-50,Seed,                 $4.7M,Released,Seed,4.7M,1,4,Seed,$4.7M,"['vulnerability-management' 'machine-learning' 'software-applications'
+ 'enterprise-security' 'penetration-tests' 'application-security'
+ 'cyber-security' 'application-security-testing' 'artificial-intelligence']"
+Zimperium,                              10/2010,"B2B, B2G",51-200,ROUND C+,                 $72M,Released,C+,72M,5,11,E Round,$12M,"['network-security' 'machine-learning' 'application-security' 'sdk'
+ 'mobile-applications' 'mobile-security' 'cyber-security'
+ 'artificial-intelligence' 'byod' 'mobile-devices' 'behavior-analytics'
+ 'zero-day' 'mdm' 'threat-intelligence' 'app-development'
+ 'vulnerability-assessment' 'endpoint-security']"
+Sonarax,                              4/2013,B2B,11-50,Seed,                 $1.2M,Released,Seed,1.2M,1,2,Seed,$1.2M,"['coronavirus' 'sensors' 'fintech' 'mobile-applications' 'connectivity'
+ 'communications' 'indoor-navigation' 'anti-fraud' 'ultrasound' 'payments'
+ 'multi-factor-authentication' 'locking-system' 'sdk'
+ 'software-applications' 'mobile-payments' 'mobile-security'
+ 'telecommunication' 'm2m' 'signal-processing' 'cyber-security'
+ 'authentication']"
+NextNine,                              3/1998,"B2B, B2G",11-50,ROUND C+,                 $39.5M,Released,C+,39.5M,4,8,C Round,$10M,"['critical-infastructure' 'control-systems' 'industry-4.0' 'ot'
+ 'cyber-security' 'scada' 'industrial-technologies']"
+BrandShield,                              1/2010,B2B,11-50,Seed,                 $1.77M,Released,Seed,1.77M,3,4,Undisclosed Round,$300K,"['software-applications' 'social-media' 'anti-fraud' 'deep-web'
+ 'management-solutions' 'machine-learning' 'analytics' 'content-analysis'
+ 'big-data' 'cyber-security' 'monitoring' 'branding' 'brand-protection'
+ 'cloud-based' 'artificial-intelligence' 'saas']"
+SecureTeam,                              1/2009,B2B,1-10,Revenue Financed,,Released,,,,,,,"['drm' 'app-development' 'secure-coding' 'application-security'
+ 'cyber-security']"
+SuperCom,                              7/1988,"B2B, B2G",51-200,Public,                 $7M,Released,Public,7M,1,0,Post-IPO Equity Funding,$7M,"['homeland-security' 'endpoint-security' 'software-applications'
+ 'biometrics' 'iot' 'security' 'border-security' 'mobile-applications'
+ 'identity-verification' 'm2m' 'payments' 'rfid' 'cyber-security'
+ 'cryptography' 'quarantine' 'transportation' 'authentication' 'tracking'
+ 'mobile-security']"
+XAIO,                              3/2019,B2B,1-10,Bootstrapped,,,,,,,,,['iot' 'cyber-security']
+Actifile,                              2/2015,"B2B, B2C",1-10,Seed,                 $100K,Released,Seed,100K,1,1,Seed,$100K,"['document-management' 'monitoring' 'encryption' 'compliance' 'cloud'
+ 'data-protection' 'enterprise-solutions' 'gdpr' 'intellectual-property'
+ 'data-storage' 'endpoint-security' 'iso' 'cyber-security' 'backup' 'dlp']"
+Cyberwrite,                              1/2017,B2B,1-10,Seed,                 $1.65M,Released,Seed,1.65M,2,4,Seed,$1.5M,"['artificial-intelligence' 'risk-management' 'machine-learning' 'fintech'
+ 'insurtech' 'remote-vendor-security' 'cyber-insurance'
+ 'management-solutions' 'saas' 'business-intelligence'
+ 'enterprise-solutions' 'cyber-security' 'software-applications'
+ 'user-onboarding' 'underwriting' 'grc' 'big-data' 'cloud']"
+Awrora,                              10/2020,B2B,1-10,Bootstrapped,,Released,,,,,,,"['enterprise-solutions' 'deep-learning' 'dlp' 'brand-protection'
+ 'website-security' 'data-protection' 'cyber-security' 'authentication']"
+Guardio,                              11/2018,"B2B, B2C",1-10,Bootstrapped,,Released,,,,,,,"['website-security' 'artificial-intelligence' 'deep-learning'
+ 'safe-browsing' 'machine-learning' 'browser-add-on' 'cyber-security'
+ 'big-data-analytics' 'phishing' 'cloud-based' 'decision-making'
+ 'application-security']"
+HUB Security,                              1/2017,B2B,11-50,Public,                 $5M,Released,Public,5M,1,2,A Round,$5M,"['blockchain' 'cyber-security' 'fintech' 'network-security'
+ 'quantum-computing' 'hardware' 'quarantine' 'cloud-security'
+ 'enterprise-solutions' 'homeland-security']"
+Retruster,                              5/2017,B2B,1-10,Seed,                 $250K,Released,Seed,250K,1,0,Seed,$250K,"['behavior-analytics' 'machine-learning' 'cyber-security'
+ 'identity-verification' 'messaging' 'spear-phishing' 'iot'
+ 'network-security' 'authentication' 'mobile-security' 'data-protection'
+ 'messaging-security' 'anti-fraud' 'safety' 'monitoring'
+ 'enterprise-security' 'artificial-intelligence' 'email']"
+SentinelOne,                              1/2013,B2B,500+,Public,                 $696.5M,Released,Public,696.5M,8,19,F Round,$267M,"['orchestration' 'cyber-security' 'social-engineering'
+ 'threat-intelligence' 'remote' 'endpoint-security' 'quarantine'
+ 'patent-pending' 'behavior-analytics' 'incident-response' 'malware'
+ 'forensics' 'cloud-security' 'zero-day' 'security-operations'
+ 'vulnerability-management' 'iot' 'artificial-intelligence' 'edr' 'apt']"
+Flowhow,                              5/2020,B2B,1-10,Seed,,R&D,Seed,0,1,1,Undisclosed Round,,"['remote-monitoring' 'clinical-workflow' 'machine-learning' 'monitoring'
+ 'decision-making' 'endpoint-security' 'imaging' 'artificial-intelligence'
+ 'real-time' 'cyber-security' 'digital-healthcare']"
+Paygilant,                              7/2015,B2B,11-50,ROUND A,                 $2.129M,Released,A,2.129M,3,3,Grant,,"['digital-wallet' 'image-recognition' 'behavior-analytics' 'transactions'
+ 'credit-cards' 'ecommerce' 'detection' 'anti-fraud' 'fintech'
+ 'mobile-devices' 'cyber-security']"
+QSM Programming,                              1/1999,B2B,11-50,Revenue Financed,,Released,,,,,,,"['multi-factor-authentication' 'anti-fraud' 'cyber-security' 'encryption'
+ 'point-of-sale' 'transactions' 'authentication' 'fintech' 'payments'
+ 'mobile-payments' 'credit-cards' 'software-applications']"
+Cobwebs Technology,                              7/2015,"B2B, B2G",51-200,ROUND A,                 $12M,Released,A,12M,2,3,A Round,$10M,"['real-time-location-systems' 'monitoring' 'webint' 'security'
+ 'coronavirus' 'threat-intelligence' 'artificial-intelligence'
+ 'natural-language-processing' 'big-data-analytics' 'intelligence'
+ 'critical-infastructure' 'homeland-security' 'website-security'
+ 'border-security' 'public-safety' 'cyber-security']"
+Next-Dim,                              9/2019,B2B,11-50,Bootstrapped,,Released,,,,,,,"['kyc' 'soc' 'fintech' 'social-networks' 'aml' 'cryptocurrency' 'saas'
+ 'payments' 'anti-fraud' 'cyber-security' 'graph-technology']"
+Salvador Technologies,                              1/2020,B2B,1-10,Seed,,Released,,,,,,,"['it' 'network-security' 'cyber-security' 'security' 'data-protection'
+ 'data-recovery' 'disaster-recovery' 'incident-response'
+ 'endpoint-security']"
+Quttera,                              12/2005,B2B,1-10,Revenue Financed,,Released,,,,,,,"['zero-day' 'anomaly-detection' 'malware' 'web-application-firewall'
+ 'wordpress-plugin' 'website-security' 'cyber-security' 'saas'
+ 'risk-management']"
+Cymulate,                              6/2016,B2B,51-200,ROUND C+,                 $71M,Released,C+,71M,4,6,C Round,$45M,"['malware' 'soc' 'vulnerability-assessment' 'endpoint-security'
+ 'cyber-security' 'enterprise-security' 'penetration-tests' 'apt'
+ 'cyber-intelligence' 'quarantine' 'saas' 'firewall' 'breach-simulation'
+ 'website-security' 'vulnerability-management' 'risk-assesments'
+ 'security']"
+SecuriThings,                              2/2016,"B2B, B2G",11-50,ROUND A,                 $18M,Released,A,18M,2,2,A Round,$14M,"['iot' 'threat-intelligence' 'cloud-based' 'behavior-analytics'
+ 'automation' 'endpoint-security' 'smart-city' 'enterprise-solutions'
+ 'industry-4.0' 'iot-security' 'cyber-security' 'artificial-intelligence'
+ 'iot-platform' 'predictive-maintenance']"
+Dustico,                              1/2021,B2B,1-10,Bootstrapped,,Beta,,,,,,,['open-source' 'vulnerability-management' 'cyber-security']
+Karamba Security,                              3/2016,B2B,11-50,ROUND B,                 $27M,Released,B,27M,4,9,Debt Financing,$10M,"['threat-intelligence' 'connected-vehicles' 'autonomous-vehicles'
+ 'smart-mobility' 'zero-day' 'flow-control' 'software-applications'
+ 'cyber-security' 'iot' 'industry-4.0' 'hardening']"
+CommuniTake Technologies,                              2/2009,"B2B, B2G",11-50,ROUND B,                 $5.05M,Released,B,5.05M,3,4,B Round,$3M,"['remote-monitoring' 'customer-support' 'mobile-security' 'iot'
+ 'cyber-security' 'mobile-applications' 'business-management'
+ 'collaboration' 'm2m' 'remote-control' 'enterprise-mobility'
+ 'enterprise-networking' 'mdm' 'self-service' 'cross-platform'
+ 'mobile-devices' 'byod']"
+Armis,                              12/2015,B2B,201-500,ROUND C+,                 $237M,Released,C+,237M,4,10,Private Equity,$125M,"['network-visibility' 'mobile-security' 'ransomware' 'cyber-security'
+ 'smart-city' 'industry-4.0' 'connected-devices' 'iot'
+ 'enterprise-solutions' 'threat-detection' 'incident-response' 'unicorn'
+ 'wireless-communication' 'endpoint-security' 'ddos' 'byod' 'mdm'
+ 'orchestration']"
+RAD,                              1/1981,"B2B, B2G",500+,Established,,Released,,,,,,,"['iot' 'ethernet' 'telecommunication-equipment' '5g-networks'
+ 'telecommunication' 'sdn' 'critical-infastructure' 'virtualization'
+ 'smart-city' 'cyber-security']"
+SCADAfence,                              1/2014,B2B,51-200,ROUND B,                 $22M,Released,B,22M,2,8,B Round,$12M,"['scada' 'security' 'energytech' 'industry-4.0' 'vulnerability-assessment'
+ 'ot-cyber' 'control-systems' 'anomaly-detection' 'ot' 'supply-chain'
+ 'homeland-security' 'cyber-security' 'critical-infastructure'
+ 'network-security' 'grid-monitoring']"
+Cyberm8,                              1/2020,B2B,1-10,Seed,,R&D,,,,,,,"['enterprise-solutions' 'automation' 'web-platform' 'network-security'
+ 'cyber-security' 'it-management']"
+Perimeter 81,                              1/2013,B2B,51-200,ROUND B,                 $64.5M,Released,B,64.5M,5,5,B Round,$40M,"['artificial-intelligence' 'mobile-security' 'quarantine'
+ 'mobile-applications' 'cyber-security' 'privacy-protection'
+ 'mobile-networks' 'safe-browsing' 'remote' 'vpn' 'encryption'
+ 'virtualization' 'cloud-security' 'enterprise-solutions'
+ 'network-security' 'compliance' 'data-protection' 'security']"
+Cyberpion,                              2/2016,B2B,11-50,Seed,                 $8.25M,Released,Seed,8.25M,1,2,Seed,$8.25M,"['penetration-tests' 'cloud-security' 'website-security'
+ 'network-security' 'supply-chain' 'cyber-security' 'risk-assesments'
+ 'vulnerability-scanning' 'threat-intelligence']"
+Reblaze,                              9/2011,"B2B, B2G",11-50,ROUND A,,Released,A,0,2,3,A Round,,"['ddos' 'web-traffic' 'cloud-based' 'cyber-security' 'bot-detection'
+ 'website-security' 'access-control' 'bots' 'web-application-firewall'
+ 'cloud-security' 'cdn' 'ips']"
+SecurityDAM,                              5/2012,B2B,11-50,Revenue Financed,,Released,,,,,,,"['cyber-security' 'vulnerability-assessment' 'cloud-security'
+ 'software-applications' 'ddos' 'network-security' 'website-security'
+ 'soc' 'ips' 'cloud']"
+BioCatch,                              11/2010,B2B,51-200,ROUND C+,                 $206.6M,Released,C+,206.6M,6,15,C Round,$20M,"['biometrics' 'cyber-security' 'machine-learning' 'identity-verification'
+ 'anomaly-detection' 'iam' 'transactions' 'authentication' 'anti-fraud'
+ 'behavioral-biometrics' 'mobile-security' 'uba' 'fintech'
+ 'behavior-analytics' 'ecommerce' 'artificial-intelligence' 'payments']"
+ITsMine,                              1/2017,B2B,11-50,Seed,                 $13.87K,Released,Seed,13.87K,2,2,Seed,,"['insider-threat' 'cloud-security' 'quarantine' 'artificial-intelligence'
+ 'endpoint-security' 'dlp' 'data-protection' 'enterprise-security'
+ 'cyber-security' 'enterprise-solutions' 'network-security' 'deception'
+ 'behavior-analytics' 'prevention' 'telecommunication' 'deep-learning']"
+AU10TIX,                              1/2005,"B2B, B2G",51-200,Revenue Financed,                 $80M,Released,Revenue Financed,80M,2,2,Private Equity,$20M,"['biometrics' 'identity-verification' 'regtech' 'mobile-payments'
+ 'cyber-security' 'omni-channel' 'authentication'
+ 'artificial-intelligence' 'machine-learning' 'access-control'
+ 'point-of-sale' 'multi-factor-authentication' 'forensics' 'aml'
+ 'security' 'fintech' 'payments' 'airports' 'image-processing' 'big-data'
+ 'kyc']"
+Cato Networks,                              1/2015,B2B,51-200,ROUND C+,                 $512M,Released,C+,512M,6,9,F Round,$200M,"['network-security' 'threat-intelligence' 'byod' 'orchestration'
+ 'machine-learning' 'cyber-security' 'unicorn' 'enterprise-security' 'vpn'
+ 'casb' 'cloud-security' 'artificial-intelligence' 'mobile-applications'
+ 'edge-computing' 'firewall']"
+Cronus Cyber Technologies,                              1/2014,B2B,11-50,ROUND A,                 $5.7M,Released,A,5.7M,2,2,A Round,$3.5M,"['cyber-security' 'automation' 'network-security'
+ 'vulnerability-assessment' 'breach-simulation' 'penetration-tests'
+ 'vulnerability-management']"
+Allot,                              1/1996,"B2B, B2G",500+,Public,                 $26.3M,Released,Public,26.3M,5,10,E Round,$5.5M,"['telecommunication' '5g-networks' 'network-optimization' 'bandwidth'
+ 'broadband' 'enterprise-networks' 'website-security'
+ 'software-applications' 'productivity' 'dpi' 'network-management'
+ 'mobile-security' 'network-security' 'cyber-security']"
+Logz.io,                              9/2014,B2B,201-500,ROUND C+,                 $122M,Released,C+,122M,7,10,E Round,$23M,"['data-management' 'big-data-analytics' 'artificial-intelligence'
+ 'big-data' 'app-development' 'business-intelligence' 'cyber-security'
+ 'predictive-analytics' 'machine-learning' 'incident-response'
+ 'monitoring' 'productivity' 'log-management' 'enterprise-solutions'
+ 'crowdsourcing' 'soc' 'saas' 'security-operations']"
+ACID Technologies,                              11/2014,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['industrial-applications' 'identity-verification' 'threat-detection'
+ 'big-data-analytics' 'deep-web' 'saas' 'enterprise-security'
+ 'threat-intelligence' 'cyber-security' 'brand-protection'
+ 'cyber-intelligence']"
+Solvo,                              4/2020,B2B,1-10,Seed,                 $3M,Released,Seed,3M,1,2,Seed,$3M,"['cloud-infrastructure' 'cloud-security' 'cyber-security' 'automation'
+ 'enterprise-solutions']"
+OTORIO,                              12/2017,B2B,51-200,Bootstrapped,,Released,,,,,,,"['digital-twin' 'iot' 'scada' 'network-security' 'control-systems' 'ot'
+ 'managed-service-provider' 'industrial-technologies'
+ 'threat-intelligence' 'critical-infastructure' 'transportation'
+ 'industry-4.0' 'cyber-security']"
+White Cyber Knight,                              4/2006,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['enterprise-solutions' 'security-management' 'vulnerability-management'
+ 'scada' 'compliance' 'risk-management' 'grc' 'grc' 'cyber-security'
+ 'incident-response' 'big-data-analytics' 'threat-intelligence']"
+COPA,                              10/2017,"B2B, B2C, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['data-protection' 'data-governance' 'collaboration' 'quarantine' 'cloud'
+ 'data-management' 'security' 'file-security' 'cyber-security'
+ 'encryption' 'legaltech' 'enterprise-solutions' 'saas'
+ 'privacy-protection' 'management-solutions' 'software-applications'
+ 'file-sharing' 'privileged-access-management' 'document-management']"
+Orchestra Group,                              7/2018,"B2B, B2G",11-50,ROUND A,                 $7.5M,R&D,A,7.5M,1,2,A Round,$7.5M,"['enterprise-solutions' 'connected-devices' 'iot' 'wireless-control'
+ 'cyber-security' 'threat-intelligence' 'orchestration' 'monitoring'
+ 'threat-detection']"
+ContextSpace Solutions,                              4/2015,"B2B, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['identity-verification' 'enterprise-security' 'enterprise-solutions'
+ 'mobile-security' 'data-protection' 'authentication' 'iam'
+ 'data-management' 'encryption' 'digital-signature' 'cyber-security'
+ 'gdpr' 'cloud-security' 'privacy-protection' 'iot']"
+SecuPi,                              4/2014,B2B,11-50,Bootstrapped,,Released,,,,,,,"['cyber-security' 'data-protection' 'exfiltration-prevention'
+ 'privacy-protection' 'compliance' 'behavior-analytics' 'monitoring'
+ 'application-security' 'anomaly-detection' 'website-security'
+ 'cloud-security' 'gdpr']"
+infinipoint,                              2/2019,B2B,11-50,Seed,                 $11M,Released,Seed,11M,1,7,Seed,$11M,"['endpoint-security' 'enterprise-solutions' 'cyber-security' 'iot'
+ 'cloud-based' 'enterprise-security' 'network-security']"
+Hardenite,                              1/2018,B2B,1-10,Bootstrapped,,Released,,,,,,,"['iot' 'medical-devices' 'telecommunication-equipment' 'smart-home'
+ 'enterprise-solutions' 'cyber-security' 'hardening' 'connected-devices'
+ 'network-security' 'software-development' 'vulnerability-assessment'
+ 'linux' 'risk-management' 'smart-city']"
+AlgoSec,                              3/2004,B2B,201-500,Revenue Financed,                 $36M,Released,Revenue Financed,36M,1,1,Undisclosed Round,$36M,"['orchestration' 'risk-management' 'firewall' 'cloud-security'
+ 'vulnerability-management' 'cyber-security' 'it-management' 'compliance'
+ 'network-management' 'enterprise-security' 'network-security']"
+Axonius,                              6/2017,B2B,51-200,ROUND C+,                 $195M,Released,C+,195M,5,10,D Round,$100M,"['connected-devices' 'byod' 'it-management' 'enterprise-solutions' 'mdm'
+ 'unicorn' 'iot' 'asset-management' 'cyber-security' 'network-visibility']"
+Mine,                              11/2018,"B2C, B2B2C",11-50,ROUND A,                 $12.5M,Released,A,12.5M,2,4,A Round,$9.5M,"['machine-learning' 'natural-language-processing' 'data-protection'
+ 'privacy-protection' 'artificial-intelligence' 'cyber-security']"
+MultiSense,                              4/2015,"B2B, B2C",1-10,Seed,,Released,,,,,,,"['face-recognition' 'anti-fraud' 'cyber-security' 'location-based'
+ 'multi-factor-authentication' 'mobile-applications' 'payments'
+ 'voice-recognition' 'biometrics' 'fintech' 'nfc' 'authentication']"
+VALIRE SOFTWARE,                              11/2009,"B2B, B2G",1-10,Seed,,Released,Seed,0,1,0,Seed,,"['erp' 'enterprise-logistics' 'reporting-and-analytics' 'fintech'
+ 'anti-fraud' 'legaltech' 'saas' 'enterprise-software' 'accounting'
+ 'cyber-security' 'enterprise-solutions' 'business-processes']"
+Zero Networks,                              1/2019,B2B,11-50,Seed,                 $4.65M,Released,Seed,4.65M,1,2,Seed,$4.65M,"['multi-factor-authentication' 'cyber-security' 'orchestration'
+ 'access-control' 'network-security' 'uba' 'identity-verification'
+ 'enterprise-solutions' 'cloud-security']"
+E.S. Embedded Solutions,                              9/2001,"B2B, B2G",11-50,Established,,,,,,,,,"['telecommunication-equipment' 'cyber-security' 'connectivity'
+ 'encryption' 'messaging-security' 'communications' 'network-security']"
+Airo Security,                              1/2017,B2C,11-50,Bootstrapped,,Alpha,,,,,,,"['endpoint-security' 'cyber-security' 'data-protection' 'ios'
+ 'artificial-intelligence' 'malware' 'security']"
+AppDome,                              2/2012,"B2B, B2C",51-200,ROUND A,                 $27.6M,Released,A,27.6M,5,6,Undisclosed Round,,"['sdk' 'mobile-applications' 'application-security' 'mobile-security'
+ 'cyber-security' 'enterprise-mobility' 'integration' 'app-development'
+ 'productivity']"
+Upstream Security,                              3/2017,B2B,51-200,ROUND C+,                 $103M,Beta,C+,103M,6,15,C Round,$26M,"['fleet-management' 'telematics' 'ips' 'oem' 'anomaly-detection'
+ 'machine-learning' 'cyber-security' 'connected-vehicles' 'smart-mobility'
+ 'autonomous-vehicles' 'dpi' 'artificial-intelligence' 'cloud-based'
+ 'ddos']"
+Continuity Software,                              1/2005,"B2B, B2G",51-200,ROUND A,,Released,A,0,1,2,A Round,,"['data-management' 'enterprise-solutions' 'disaster-recovery'
+ 'data-storage' 'database-high-availability' 'cyber-security'
+ 'cloud-storage' 'it' 'risk-management' 'cyber-legal-and-regulatory'
+ 'finance' 'cloud' 'saas' 'cyber-insurance' 'business-continuity']"
+Cynerio,                              1/2017,"B2B, B2G",11-50,ROUND B,                 $37M,Released,B,37M,2,8,B Round,$30M,"['digital-healthcare' 'iot' 'clinical-workflow' 'artificial-intelligence'
+ 'anomaly-detection' 'network-visibility' 'medical-technologies'
+ 'medical-devices' 'cyber-security' 'machine-learning'
+ 'behavior-analytics' 'data-protection']"
+Forter,                              2/2013,B2B,201-500,ROUND C+,                 $525M,Released,C+,525M,6,15,F Round,$300M,"['cyber-security' 'ecommerce' 'fintech' 'big-data-analytics' 'anti-fraud'
+ 'identity-verification' 'unicorn' 'machine-learning'
+ 'artificial-intelligence' 'transactions' 'behavior-analytics' 'payments']"
+Ericom Software,                              12/1993,B2B,51-200,Established,,Released,,,,,,,"['bpm' 'cyber-security' 'network-security' 'isolation'
+ 'enterprise-networking' 'enterprise-solutions' 'software-applications'
+ 'html5' 'virtualization']"
+Comda,                              7/1985,B2B,51-200,Established,,Released,,,,,,,"['authentication' 'iam' 'network-security' 'cyber-security'
+ 'management-solutions' 'digital-signature' 'access-control' 'encryption'
+ 'counselling-and-integration' 'biometrics' 'pki']"
+Apolicy,                              12/2019,B2B,1-10,Seed,                 $3.5M,Released,Seed,3.5M,1,1,Seed,$3.5M,"['enterprise-solutions' 'kubernetes' 'risk-management' 'cyber-security'
+ 'orchestration' 'cloud-security']"
+Radiflow,                              9/2009,"B2B, B2G",11-50,ROUND B,                 $18M,Released,B,18M,2,2,B Round,$18M,"['scada' 'industry-4.0' 'energytech' 'm2m' 'critical-infastructure'
+ 'compliance' 'cyber-security' 'firewall' 'ot-cyber' 'ids' 'siem'
+ 'industrial-technologies' 'ot' 'it-infrastructure' 'iot']"
+SafeBreach,                              2/2014,B2B,51-200,ROUND C+,                 $53M,Released,C+,53M,4,11,C Round,$19M,"['penetration-tests' 'vulnerability-management' 'threat-intelligence'
+ 'enterprise-solutions' 'vulnerability-assessment' 'network-security'
+ 'cyber-security' 'breach-simulation' 'enterprise-security'
+ 'risk-management']"
+Axis Security,                              10/2018,B2B,51-200,ROUND C+,                 $99M,Released,C+,99M,4,6,C Round,$50M,"['enterprise-solutions' 'access-control' 'authentication' 'cloud-security'
+ 'network-security' 'cyber-security']"
+Cybear Networks,                              5/2016,B2B,1-10,Seed,,Released,,,,,,,"['security-operations' 'cyber-security' 'enterprise-security' 'soc'
+ 'incident-response' 'automation']"
+SIRIN LABS,                              11/2013,B2C,51-200,Seed,                 $254.9M,Released,Seed,254.9M,3,4,ICO,$157.9M,"['electronic-manufacturing' 'transactions' 'telecommunication-equipment'
+ 'telecommunication' 'mobile-devices' 'ips' 'blockchain' 'cryptocurrency'
+ 'manufacturing' 'consumer-electronics' 'cyber-security'
+ 'multi-factor-authentication' 'fintech']"
+VADO Security Technologies,                              1/2010,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['communications' 'file-sharing' 'optronics' 'security'
+ 'industrial-networks' 'network-security' 'data-protection' 'isolation'
+ 'hardware' 'critical-infastructure' 'industry-4.0' 'cyber-security']"
+Nunetz,                              1/2016,B2B,1-10,Seed,,Beta,,,,,,,"['artificial-intelligence' 'clinical-workflow' 'cyber-security'
+ 'coronavirus' 'digital-healthcare' 'medical-data' 'automation'
+ 'home-care' 'personalization' 'machine-learning' 'big-data-analytics'
+ 'software-applications']"
+Cymptom,                              3/2019,B2B,11-50,Seed,                 $4M,Released,Seed,4M,2,1,Grant,$500K,"['penetration-tests' 'saas' 'enterprise-solutions' 'cyber-security'
+ 'vulnerability-assessment' 'cloud' 'vulnerability-management'
+ 'threat-detection' 'network-security' 'breach-simulation']"
+Caligo Systems,                              1/2017,B2B,1-10,Bootstrapped,,Alpha,,,,,,,"['industrial-applications' 'iot' 'industrial-networks' 'connectivity'
+ 'cyber-security' 'industry-4.0']"
+SpecterX,                              8/2018,B2B,1-10,Seed,,Released,,,,,,,"['supply-chain' 'saas' 'management-solutions' 'collaboration' 'cloud'
+ 'data-protection' 'productivity' 'encryption' 'data-management'
+ 'enterprise-solutions' 'enterprise-security' 'cyber-security'
+ 'cloud-security']"
+Safend,                              3/2003,"B2B, B2G",11-50,ROUND C+,                 $16.4M,Released,C+,16.4M,3,3,C Round,$9M,"['software-applications' 'dlp' 'data-protection' 'auditing'
+ 'insider-threat' 'gdpr' 'encryption' 'enterprise-security'
+ 'endpoint-security' 'cyber-security']"
+ReSec Technologies,                              5/2012,"B2B, B2G",11-50,ROUND A,                 $11.75M,Released,A,11.75M,4,10,A Round,$4M,"['network-security' 'apt' 'file-sharing' 'enterprise-solutions' 'email'
+ 'isolation' 'enterprise-security' 'data-protection' 'threat-intelligence'
+ 'ids' 'cdr' 'ips' 'patent-pending' 'malware' 'infrastructure'
+ 'cyber-security' 'endpoint-security' 'zero-day' 'file-security'
+ 'content-sharing']"
+Cyround Technologies,                              8/2018,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['cyber-security']
+CloudAlly,                              3/2011,"B2B, B2C",11-50,Revenue Financed,,Released,,,,,,,"['salesforce' 'backup' 'cloud' 'cyber-security' 'disaster-recovery'
+ 'data-storage' 'enterprise-solutions' 'it' 'data-protection']"
+CipherSiP,                              1/2018,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['connected-vehicles' 'cyber-security' 'iot' 'smart-mobility'
+ 'authentication' 'data-protection' 'ota' 'industry-4.0']"
+CybeReady,                              12/2014,B2B,11-50,ROUND A,                 $5M,Released,A,5M,1,1,A Round,$5M,"['simulators' 'software-applications' 'knowledge-technology'
+ 'spear-phishing' 'cyber-security' 'machine-learning' 'phishing'
+ 'artificial-intelligence' 'training' 'enterprise-solutions']"
+Inpedio,                              2/2016,"B2B, B2G",11-50,ROUND A,                 $5M,Released,A,5M,2,4,A Round,$5M,"['p2p' 'ransomware' 'cyber-security' 'mobile-devices' 'zero-day' 'malware'
+ 'mobile-security' 'endpoint-security' 'enterprise-security' 'byod'
+ 'encryption']"
+Octopus Systems,                              4/2013,"B2B, B2G",11-50,ROUND A,                 $10.5M,Released,A,10.5M,3,3,A Round,$3M,"['sensor-fusion' 'machine-learning' 'orchestration' 'remote-monitoring'
+ 'command-and-control' 'emergency-response' 'big-data' 'coronavirus'
+ 'homeland-security' 'security' 'safety' 'cloud-based'
+ 'artificial-intelligence' 'mobile-applications' 'cyber-security'
+ 'incident-response' 'soc' 'alert-system' 'network-management'
+ 'threat-intelligence' 'smart-city' 'security-operations' 'siem'
+ 'control-systems' 'integration']"
+Nubo Software,                              7/2011,"B2B, B2G",1-10,ROUND A,                 $7M,Released,A,7M,1,2,A Round,$7M,"['mobile-security' 'enterprise-mobility' 'enterprise-security' 'byod'
+ 'cloud' 'data-protection' 'dlp' 'mobile-devices' 'cyber-security'
+ 'virtualization' 'mobile-applications']"
+Infobay,                              1/2010,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['malware' 'dlp' 'cloud-based' 'endpoint-security' 'data-protection'
+ 'messaging-security' 'encryption' 'enterprise-security' 'cyber-security'
+ 'threat-detection' 'enterprise-solutions' 'gdpr']"
+IsItYou,                              4/2012,"B2B, B2C",1-10,Seed,                 $1M,Released,Seed,1M,1,1,Seed,$1M,"['authentication' 'face-recognition' 'mobile-devices' 'mobile-security'
+ 'cyber-security' 'identity-verification' 'anti-fraud' 'access-control'
+ 'artificial-intelligence' 'biometrics']"
+D-ID,                              1/2017,"B2B, B2G, B2B2C",11-50,ROUND A,                 $18.06M,Beta,A,18.06M,5,13,A Round,$8.1M,"['compliance' 'cryptography' 'artificial-intelligence'
+ 'artificial-intelligence' 'deep-learning' 'security' 'access-control'
+ 'identity-verification' 'face-recognition' 'gdpr' 'social-media'
+ 'privacy-protection' 'file-security' 'biometrics' 'database-security'
+ 'homeland-security' 'image-processing' 'data-protection'
+ 'computer-vision' 'cyber-security']"
+QUASAR VISION,                              1/2020,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['space-tech' 'cyber-security']
+Barrel Protocol,                              1/2018,"B2B, B2C",1-10,Seed,                 $4M,Released,Seed,4M,1,4,Seed,$4M,"['gdpr' 'artificial-intelligence' 'blockchain' 'data-protection'
+ 'privacy-protection' 'contracts' 'compliance' 'enterprise-solutions'
+ 'cyber-security' 'big-data']"
+TrustPeers,                              6/2019,B2B,11-50,Seed,,Released,Seed,0,1,1,Pre-Seed,,"['enterprise-security' 'enterprise-solutions' 'cyber-security'
+ 'incident-response']"
+Securely,                              4/2016,"B2B, B2C",1-10,Bootstrapped,,Released,,,,,,,"['compliance' 'enterprise-solutions' 'digital-certificates'
+ 'network-security' 'pki' 'security' 'software-applications'
+ 'it-management' 'cyber-security' 'encryption']"
+CYE,                              6/2012,B2B,51-200,ROUND A,                 $120M,Released,A,120M,1,2,A Round,$120M,"['network-security' 'machine-learning' 'cyber-security' 'red-team'
+ 'anomaly-detection' 'enterprise-solutions' 'artificial-intelligence'
+ 'security-posture-assessment' 'big-data-analytics' 'risk-management'
+ 'vulnerability-assessment' 'penetration-tests' 'threat-intelligence'
+ 'incident-response' 'enterprise-security']"
+Enigmatos,                              9/2015,B2B,1-10,Bootstrapped,,Released,,,,,,,"['network-security' 'connected-vehicles' 'ips' 'behavior-analytics'
+ 'artificial-intelligence' 'anomaly-detection' 'smart-mobility'
+ 'cyber-security' 'ids' 'autonomous-vehicles' 'big-data-analytics'
+ 'threat-detection' 'patent-pending']"
+Intezer,                              9/2015,B2B,11-50,ROUND B,                 $25M,Released,B,25M,3,6,B Round,$15M,"['network-security' 'threat-intelligence' 'incident-response'
+ 'endpoint-security' 'cyber-security' 'apt' 'cloud-security'
+ 'enterprise-solutions' 'malware' 'security-operations' 'forensics'
+ 'threat-detection' 'soc' 'zero-day']"
+Cybrid Security,                              1/2020,B2B,1-10,Pre-Seed,,R&D,,,,,,,"['enterprise-security' 'insider-threat' 'hybrid-cloud'
+ 'network-management' 'saas' 'security' 'malware' 'enterprise-solutions'
+ 'network-security' 'automation' 'cyber-security']"
+LiquidEOS,                              6/2018,B2B,1-10,Bootstrapped,,R&D,,,,,,,"['software-applications' 'blockchain' 'cyber-security' 'cryptocurrency'
+ 'digital-wallet']"
+Chain Reaction,                              1/2019,B2B,1-10,Seed,,R&D,Seed,0,1,1,Seed,,"['cyber-security' 'software-applications' 'cryptography' 'blockchain'
+ 'hardware']"
+AGS Encryptions,                              6/1999,B2B,1-10,Revenue Financed,,Released,,,,,,,"['cryptography' 'cyber-security' 'cyber-threat-analysis'
+ 'homomorphic-encryption' 'encryption']"
+Gama Operations,                              1/1995,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['homeland-security' 'ivr' 'critical-infastructure' 'cyber-security'
+ 'streaming' 'pbx' 'network-security' 'messaging' 'encryption'
+ 'voice-processing' 'data-protection' 'voip' 'text-to-speech'
+ 'telecommunication']"
+Radix Technologies,                              9/1992,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['oem' 'it' 'mdm' 'lms' 'sdk' 'monitoring' 'cross-platform' 'quarantine'
+ 'collaboration' 'mobile-devices' 'security' 'tracking' 'real-time'
+ 'digital-signage' 'smart-class' 'e-learning' 'broadcasting'
+ 'cyber-security' 'white-label-solution' 'edtech' 'cloud']"
+Vaulto Technologies,                              1/2015,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['cyber-security' 'encryption' 'privacy-protection' 'mobile-security'
+ 'mobile-applications' 'dlp' 'data-protection' 'byod' 'mobile-devices']"
+AdVerif.AI,                              1/2018,"B2B, B2G",1-10,Pre-Seed,,Beta,,,,,,,"['artificial-intelligence' 'cyber-security' 'brand-protection' 'saas'
+ 'coronavirus']"
+CRITIFENCE Technologies,                              7/2016,"B2B, B2G",1-10,Bootstrapped,,Released,,,,,,,"['machine-learning' 'analytics' 'critical-infastructure' 'transportation'
+ 'artificial-intelligence' 'scada' 'monitoring' 'control-systems'
+ 'cyber-security' 'industry-4.0' 'industrial-technologies'
+ 'smart-mobility']"
+Shibozo,                              8/2020,"B2B, B2C",1-10,Bootstrapped,,Released,,,,,,,"['software-applications' 'file-security' 'cyber-security' 'file-sharing'
+ 'mobile-applications' 'real-time']"
+ZecOps,                              7/2017,B2B,11-50,Seed,                 $10.2M,Released,Seed,10.2M,2,7,Seed,$6.7M,"['forensics' 'security-operations' 'cyber-threat-analysis'
+ 'cyber-security' 'enterprise-security' 'incident-response'
+ 'threat-intelligence' 'automation' 'soc']"
+Pandora Security,                              4/2020,B2B,1-10,,,,,,,,,,['cyber-security']
+Verint Systems,                              4/1994,B2B,500+,Public,,Released,,,,,,,"['customer-engagement' 'video-analytics' 'cyber-security' 'speech'
+ 'knowledge-management' 'employee-engagement' 'predictive-analytics'
+ 'behavior-analytics' 'mobile-applications']"
+Magnisec,                              7/2019,B2B,1-10,Bootstrapped,,Released,,,,,,,"['software-applications' 'website-security' 'machine-learning'
+ 'network-security' 'it' 'asset-management' 'cyber-security'
+ 'enterprise-solutions' 'incident-response' 'application-security'
+ 'deep-learning']"
+MazeBolt,                              10/2013,"B2B, B2G",11-50,Seed,                 $61.6K,Released,Seed,61.6K,2,0,Grant,$61.6K,"['ddos' 'protection' 'website-security' 'breach-simulation'
+ 'enterprise-software' 'test-automation' 'vulnerability-management'
+ 'cyber-threat-analysis' 'vulnerability-assessment' 'network-security'
+ 'enterprise-solutions' 'simulation' 'enterprise-security'
+ 'cyber-security' 'penetration-tests']"
+Vicarius,                              4/2016,B2B,11-50,Seed,                 $5.155M,Released,Seed,5.155M,3,5,Seed,$5M,"['enterprise-security' 'malware' 'enterprise-solutions'
+ 'application-security' 'predictive-analytics' 'vulnerability-assessment'
+ 'security' 'cyber-security' 'vulnerability-management' 'risk-assesments']"
+Illusive Networks,                              10/2014,B2B,51-200,ROUND B,                 $54M,Released,B,54M,3,12,B Round,$24M,"['incident-response' 'enterprise-security' 'deception' 'apt'
+ 'cloud-security' 'forensics' 'insider-threat' 'threat-detection'
+ 'ransomware' 'network-security' 'cyber-security' 'cyber-intelligence']"
+GK8,                              1/2018,B2B,11-50,Seed,                 $4M,Released,Seed,4M,1,6,Seed,$4M,"['patent-pending' 'fintech' 'cyber-security' 'digital-assets' 'blockchain'
+ 'cryptography']"
+WireX Systems,                              1/2010,"B2B, B2G",11-50,ROUND A,                 $11.3M,Released,A,11.3M,2,6,A Round,$9.3M,"['forensics' 'dlp' 'network-security' 'big-data-analytics' 'monitoring'
+ 'incident-response' 'threat-intelligence' 'dpi' 'cyber-security']"
+OttoSec,                              2/2020,B2B,1-10,Seed,,R&D,,,,,,,"['smart-mobility' 'oem' 'iot' 'saas' 'cyber-security' 'connected-vehicles'
+ 'firewall']"
+Ermetic,                              2/2019,B2B,11-50,ROUND A,                 $27.25M,Customer development,A,27.25M,2,4,A Round,$17.25M,"['data-protection' 'enterprise-solutions' 'privileged-access-management'
+ 'machine-learning' 'saas' 'cyber-security' 'cloud-security' 'iam'
+ 'identity-verification' 'management-solutions' 'big-data']"
+CybroSec,                              1/2018,B2B,1-10,Bootstrapped,,Customer development,,,,,,,['cyber-security' 'security-operations' 'enterprise-solutions']
+CalCom,                              3/2001,"B2B, B2G",11-50,Revenue Financed,,Released,,,,,,,"['operations-optimization' 'monitoring' 'network-security' 'hardening'
+ 'enterprise-security' 'it-management' 'compliance' 'cyber-security'
+ 'network-management']"
+SecureNative,                              8/2018,B2B,11-50,Seed,,Released,,,,,,,['cyber-security' 'enterprise-solutions' 'vulnerability-management']
+Imperva,                              1/2002,"B2B, B2G",500+,Public,                 $49M,Released,Public,49M,3,5,D Round,$20M,"['database-security' 'web-application-firewall' 'behavior-analytics'
+ 'mobile-applications' 'file-security' 'enterprise-security'
+ 'application-security' 'ransomware' 'cloud-security' 'dlp'
+ 'data-protection' 'ddos' 'threat-intelligence' 'compliance'
+ 'network-security' 'cyber-security' 'insider-threat' 'cdn']"
+Morphisec,                              1/2014,"B2B, B2G",51-200,ROUND C+,                 $51.5M,Released,C+,51.5M,4,7,C Round,$31M,"['cyber-security' 'ransomware' 'threat-detection' 'endpoint-security'
+ 'quarantine' 'servers' 'network-security' 'enterprise-security'
+ 'deception' 'zero-day' 'cloud-security']"
+Indeni,                              2/2009,B2B,11-50,ROUND B,                 $24M,Released,B,24M,2,6,B Round,$14M,"['cyber-security' 'crowdsourcing' 'enterprise-software'
+ 'network-management' 'knowledge-technology' 'analytics'
+ 'network-security' 'cloud' 'enterprise-networking' 'enterprise-solutions'
+ 'fundraising' 'it' 'artificial-intelligence' 'saas']"
+IRONSCALES,                              12/2013,B2B,51-200,ROUND B,                 $31M,Released,B,31M,4,4,B Round,$8M,"['penetration-tests' 'natural-language-processing' 'endpoint-security'
+ 'mobile-applications' 'threat-detection' 'enterprise-security' 'email'
+ 'machine-learning' 'gamification' 'spear-phishing' 'messaging-security'
+ 'cyber-security' 'social-engineering' 'training'
+ 'vulnerability-assessment' 'incident-response' 'artificial-intelligence'
+ 'threat-intelligence' 'soc']"
+Firedome,                              1/2018,B2B,11-50,ROUND A,                 $14.5M,Beta,A,14.5M,3,3,Grant,,"['incident-response' 'machine-learning' 'industry-4.0'
+ 'artificial-intelligence' 'endpoint-security' 'iot' 'home-security'
+ 'wireless-control' 'cyber-security' 'home-connected-devices' 'smart-home']"
+authorizon,                              5/2021,B2B,1-10,Bootstrapped,,R&D,,,,,,,['iam' 'cyber-security']
+CGS Tower Networks,                              5/2014,"B2B, B2C, B2G",11-50,Bootstrapped,,Released,,,,,,,"['monitoring' 'data-logging' 'data-storage' 'cyber-security'
+ 'telecommunication-equipment' 'compliance' 'network-security'
+ 'telecommunication']"
+CISOteria,                              8/2018,B2B,1-10,Bootstrapped,,Released,,,,,,,['risk-management' 'enterprise-solutions' 'cyber-security']
+AKEYLESS,                              2/2018,B2B,11-50,ROUND A,                 $14M,Released,A,14M,2,2,A Round,$14M,"['privacy-protection' 'encryption' 'patent-pending' 'cyber-security'
+ 'compliance' 'security' 'data-protection' 'enterprise-security'
+ 'root-of-trust' 'iot' 'cloud-security']"
+Semperis,                              9/2014,"B2B, B2G",51-200,ROUND B,                 $40M,Released,B,40M,2,4,B Round,$40M,"['data-protection' 'saas' 'iam' 'compliance' 'orchestration'
+ 'identity-verification' 'backup' 'data-recovery' 'enterprise-solutions'
+ 'network-security' 'disaster-recovery' 'patent-pending' 'cross-platform'
+ 'cyber-security' 'enterprise-security']"
+SBN Signature Biometrics,                              4/2018,"B2B, B2B2C",1-10,Bootstrapped,,Released,,,,,,,"['fintech' 'biometrics' 'transactions' 'mobile-payments' 'mobile-security'
+ 'anti-fraud' 'credit-cards' 'cyber-security' 'authentication']"
+WizLAN,                              7/1996,"B2B, B2G",1-10,Revenue Financed,,Released,,,,,,,"['connectivity' 'optical-communication' 'communications'
+ 'telecommunication-equipment' 'switches' 'network-security'
+ 'it-infrastructure' 'cyber-security' 'telecommunication' 'optronics']"
+Identiq,                              9/2018,B2B,11-50,ROUND A,                 $52M,Beta,A,52M,2,7,A Round,$47M,"['risk-management' 'cyber-security' 'identity-verification'
+ 'privacy-protection' 'p2p' 'software-applications' 'kyc' 'authentication'
+ 'enterprise-solutions' 'anti-fraud' 'fintech' 'cryptography']"
+IntelFinder,                              5/2015,B2B,1-10,Bootstrapped,,Released,,,,,,,"['enterprise-solutions' 'cyber-security' 'saas' 'threat-intelligence'
+ 'enterprise-security']"
+Cy-oT,                              12/2015,B2B,1-10,Seed,,Released,,,,,,,"['zero-day' 'industry-4.0' 'telecommunication' 'iot-security' 'iot'
+ 'cyber-security' 'enterprise-solutions' 'wireless-communication'
+ 'enterprise-security' 'artificial-intelligence']"
