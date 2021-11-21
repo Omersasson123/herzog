@@ -34,7 +34,7 @@ time.sleep(2)
 '''
 
 #method to get all company urls that are relevant, as a set to make sure we don't have duplicates
-list_of_startups = set()
+list_of_companies = set()
 def addToCompanyList(page_source):
     #create BeautifulSoup object
     soup = BeautifulSoup(page_source, 'lxml')
@@ -42,7 +42,7 @@ def addToCompanyList(page_source):
     #find all links and only add them if they go to a company
     for link in result.findAll('a'):
         l = link.get('href')
-        list_of_startups.add(l)
+        list_of_companies.add(l)
 #scroll to bottom to avoid misclicking issue
 driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
 time.sleep(2)
@@ -53,7 +53,7 @@ next_button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By
 while True:
     try:
         addToCompanyList(driver.page_source)
-        print(len(list_of_startups))
+        print(len(list_of_companies))
 
         next_button.click()
         next_button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@class='next page-numbers']")))
@@ -61,50 +61,78 @@ while True:
         #have gone to last page
         break
     print(next_button)
-print(len(list_of_startups))
+print(len(list_of_companies))
 driver.close()
 
+#sonya's webscraping code
+def clean_data(df):
+    # removes the \n characters 
+    df = df.replace(r'\$M ',' ', regex=True) 
+    return df
 
-'''
-#ensure website locations are as expected, probably not needed
-driver.maximize_window()
-#click cyber_security tag, can letter edit to get companies of other tags 
-time.sleep(2)
-cyber_security = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@id='search-form']/div[2]/div/div/div[6]")))
-cyber_security.click()
+def add_rows(url, df):
+    #request page and initilze BS object
+    headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:66.0) Gecko/20100101 Firefox/66.0", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "en-US,en;q=0.5", "Accept-Encoding": "gzip, deflate", "DNT": "1", "Connection": "close", "Upgrade-Insecure-Requests": "1"}
+    
+    page = requests.get(url, headers = headers)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    body = soup.find('body')
+    
+    result = soup.find('div', {"class": "zyno-card-4"})
+    titles = [ ]
+    values = [ ]
 
-#scroll down to bottom of page and click load more button
-time.sleep(3)
-driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-time.sleep(3)
-#click load more button
-button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@id='companies_advanced_search_page']/div[4]/div")))
-button.click()
+    
+    
+    name_of_company = body.find("h1", {"class": "uk-article-title"}).text
+    titles.append('Name of Company')
+    values.append(name_of_company)
+    
+    
+    arr = [ ]
 
-#scroll to bottom
-last_height = 0
-while True:
-    #scrolling
-    driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
-    time.sleep(3)
-    #check if we have reached end of scrolling
-    new_height = driver.execute_script("return document.body.scrollHeight")
-    if new_height == last_height:
-        break
-    last_height = new_height
+    first_col = body.find_all("div", {"class": "col-width-oneth"})
+    title_indeces = [2, 5, 8, 11, 14]
+    value_indeces = [3, 6, 9, 12, 15]
+    for i in first_col:
+        arr.append(i.text)
+    
+    for index in title_indeces:
+        titles.append(arr[index])
+    for index in value_indeces:
+        values.append(arr[index])
+        
+    arr_of_tags = []
+    tag_wrap = body.find("div", {"class": "vendor-categories-th-p"}).find_all('a')
+    for i in tag_wrap:
+        arr_of_tags.append(i.text)
+    
+    
+    location = body.find("div", {"class": "vendor-country"}).text
 
-page_source = driver.page_source
-#add all correct links to set of startups
-addToCompanyList(page_source)
-print(len(list_of_startups))
-driver.close()
+    
+    titles.extend(['Company Tags', 'Location'])
+    values.extend([arr_of_tags, location])
 
 
-cyber_security_startup_table = pd.DataFrame()
-for company in list_of_startups:
-    df = add_rows(company, df)
+
+    row_df = pd.DataFrame([values], columns = titles)
+  
+    df = pd.concat([df, row_df], ignore_index=True)
+    
+    #df = df.drop_duplicates() #ensure we don't add duplicates, should add company name to avoid drops of same values 
+    df = clean_data(df)
+    return df
+
+
+cyber_security_multinational_table = pd.DataFrame()
+l = list(list_of_companies)
+for company in l[0:100]:
+    time.sleep(2)
+    print(company)
+    cyber_security_multinational_table = add_rows(company, cyber_security_multinational_table)
 
 path = os.getcwd()
-df.to_csv(path + '/export_startup_companies.csv', index = False)
-'''
+cyber_security_multinational_table.to_csv(path + '/export_multinational_companies.csv', index = False)
+
 
