@@ -27,6 +27,11 @@ driver.get("https://www.cyberdb.co/database/cyberdb-cyber-vendors/")
 
 #maximize window to ensure elements are where expected
 driver.maximize_window()
+
+#click USA comanies 
+USA_button = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@id='main']/div/div[2]/ul/li[2]/a")))
+USA_button.click()
+time.sleep(2)
 '''
 #scroll to bottom to avoid misclicking issue
 driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
@@ -127,7 +132,7 @@ def add_rows(url, df):
 
 cyber_security_multinational_table = pd.DataFrame()
 l = list(list_of_companies)
-for company in l[0:100]:
+for company in l:
     time.sleep(2)
     print(company)
     cyber_security_multinational_table = add_rows(company, cyber_security_multinational_table)
