@@ -114,12 +114,13 @@ def add_rows(url, df):
     
     
     location = body.find("div", {"class": "vendor-country"}).text
-
+    #the about description
+    about_vendor = body.find("div", {"class": "vendor-description"}).text
     
-    titles.extend(['Company Tags', 'Location'])
-    values.extend([arr_of_tags, location])
-
-
+    titles.extend(['Company Tags', 'Location', 'Description'])
+    values.extend([arr_of_tags, location, about_vendor])
+    
+    
 
     row_df = pd.DataFrame([values], columns = titles)
   
