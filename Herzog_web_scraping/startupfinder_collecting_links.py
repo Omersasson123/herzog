@@ -8,7 +8,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import numpy as np
-import cchardet
+#import cchardet
+from webdriver_manager.chrome import ChromeDriverManager
 import os
 '''
 Script to collect all relevant cybersecurity links
@@ -20,7 +21,8 @@ options = webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
 #options.add_argument('--incognito') #if we want to run selenium in incognito
 options.add_argument('--headless') #if we want to run selenium without displaying browser
-driver = webdriver.Chrome("/usr/local/bin/chromedriver", chrome_options=options)
+#driver = webdriver.Chrome("/usr/local/bin/chromedriver", chrome_options=options)
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
 #use driver to get webpage 
 driver.get("https://finder.startupnationcentral.org/startups/search?tab=all&list_1_action=and&list_2_action=and&list_3_action=and&list_4_action=and&list_5_action=and&list_6_action=and&list_7_action=and&list_8_action=and&list_9_action=and&list_10_action=and&list_11_action=and&list_12_action=and&list_13_action=and&list_14_action=and&list_15_action=and&list_16_action=and&list_17_action=and&list_18_action=and&list_19_action=and&list_20_action=and&founded_from_year=&founded_to_year=&status=Active&academia_based=0&time_range_code=2&time_range_from_date=2021-09-19")
@@ -72,6 +74,7 @@ def addToCompanyList(page_source):
 driver.maximize_window()
 #click cyber_security tag, can letter edit to get companies of other tags 
 time.sleep(2)
+#//*[@class='label hoverable js-suggested-tag js-hoverable-tag js-binded tooltipstered']
 cyber_security = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.XPATH, "//*[@id='search-form']/div[2]/div/div/div[6]")))
 cyber_security.click()
 
