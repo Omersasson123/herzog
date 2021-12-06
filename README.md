@@ -1,4 +1,4 @@
-# herzog
+# Herzog Strategic Tech Project
 Developed a web scraping tool to collect data about multi-national and Israeli startup companies in the cybersecurity industry. 
 Then we developed an algorithm to match multi-national comapnies with Israeli startups based off factors such as company tags and startup product stage.
 
