@@ -15,17 +15,17 @@ Then we developed an algorithm to match multi-national comapnies with Israeli st
       py -m ensurepip --upgrade
       ```
   After installing pip can install tkinter and pandas 
-     ```sh
+     ```
       pip install pandas
       pip install tk
-      ```
+     ```
 ## 2. Clone github repo: 
     In the directory you want run: 
-      ```sh
+      ```
       git clone https://github.com/Omersasson123/herzog.git
       ```
 ## 3. To run the GUI go to the direction and cd into Herzog_web_scraping and run python3 display.py
-    ```sh
-      cd Herzog_web_scraping
-      python3 display.py
-      ```
+    ```
+    cd Herzog_web_scraping
+    python3 display.py
+    ```
