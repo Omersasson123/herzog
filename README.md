@@ -19,7 +19,7 @@ Then we developed an algorithm to match multi-national comapnies with Israeli st
       pip install pandas
       pip install tk
      ```
-## 2. Clone github repo: 
+## 2. Clone github repo: copy link from green code button
       git clone [enter link to github]
       
 ## 3. To run the GUI go to the direction and cd into Herzog_web_scraping and run python3 display.py
