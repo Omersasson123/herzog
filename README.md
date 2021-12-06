@@ -2,7 +2,7 @@
 Developed a web scraping tool to collect data about multi-national and Israeli startup companies in the cybersecurity industry. 
 Then we developed an algorithm to match multi-national comapnies with Israeli startups based off factors such as company tags and startup product stage.
 
-#Running GUI
+# Running GUI
 1. Install dependincies: Need to have Python3, pip, tkinter, and pandas installed
   For python3 https://realpython.com/installing-python/ 
   For pip https://pip.pypa.io/en/stable/installation/ 
