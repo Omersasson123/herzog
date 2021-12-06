@@ -20,10 +20,9 @@ Then we developed an algorithm to match multi-national comapnies with Israeli st
       pip install tk
      ```
 ## 2. Clone github repo: 
-      git clone https://github.com/Omersasson123/herzog.git
+      git clone [enter link to github]
       
 ## 3. To run the GUI go to the direction and cd into Herzog_web_scraping and run python3 display.py
-    ```
     cd Herzog_web_scraping
     python3 display.py
-    ```
+    
